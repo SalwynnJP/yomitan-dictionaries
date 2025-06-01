@@ -376,13 +376,9 @@ Pictures scraped from Bing Images (exclusive verbs, adj-i with single kanji) (10
 
 <details>
 
-<summary>Salwynn's Note</summary>
+<summary>Salwynn's Note/Images</summary>
 
 > I think it offers more context and example sentences than some monolingual dictionaries, which don’t always provide them—or only offer a few of the most ‘representative’ ones. 
-
-<details>
-
-<summary>Images</summary>
 
 ![image](https://github.com/user-attachments/assets/232cc25e-7acc-4cca-81a8-63dbafa07498)
 
