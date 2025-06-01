@@ -289,6 +289,30 @@ Converted by Bint. Data from Monokakido. Include as well images, 筆順 etc... G
 
 </details>
 
+**有斐閣法律用語辞典 第５版**
+
+Converted by Bint. Data from Monokakido. 14711 entries.
+
+<details>
+
+<summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/0273ee51-3f91-4814-9561-975bf1db7669)
+
+</details>
+
+**現代心理学辞典**
+
+Converted by Bint. Data from Monokakido. 10223 entries.
+
+<details>
+
+<summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/878893f6-bcf5-4fb4-8a98-e5a24860c1e8)
+
+</details>
+
 #### Salwynn's dictionaries
 
 Dictionaries converted by Salwynn.
