@@ -1425,6 +1425,10 @@ server. Includes:
 - 譯典通英漢雙向字典
 - 五南國語活用辭典
 
+#### 小学館中日辞典 第3版
+
+Find `小学館中日辞典 第3版` in the [Caoimhe's dictionaries folder](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD).
+
 #### 白水社 中国語辞典 Hakusuisya Chinese-Japanese Dictionary
 
 Find `[ZH-JA] 白水社 中国語辞典` in the [dictionary collection](#dictionary-collection).
