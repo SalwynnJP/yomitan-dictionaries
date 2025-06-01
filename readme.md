@@ -271,59 +271,51 @@ them. Currently contains:
   - Scraped/converted by Kartoffel.
 - 漢字源
 
+#### Bint's dictionaries
+
+Dictionaries converted by Bint.
+
+- **[Bint Yomitan Dictionaries folder](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD)**
+
+**例解学習国語辞典 第十一版**
+
+Converted by Bint. Data from Monokakido. Include as well images, 筆順 etc... Great for semi-beginners.
+
+<details>
+
+<summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/5b9552df-3f26-443b-96ea-a2e6457c41b2)
+
+</details>
+
 #### Salwynn's dictionaries
 
 Dictionaries converted by Salwynn.
 
 - **[Salwynn Yomitan Dictionaries folder](https://drive.google.com/drive/folders/1CPPAgKzz_PDEb7JUPHGioONTEQg0aCHW)**
 
-**例解学習国語辞典 第十一版 Reikai Gakushuu Kokugo Jiten**
+**語彙力・熟語の百科事典**
 
-Find `[JA-JA] 例解学習国語辞典 第十一版 [2024-04-30]` in the
-[dictionary collection](#dictionary-collection).
-
-Converted by @SalwynnJP with data provided by Ludia.
+Jukugo and expressions with images from https://proverb-encyclopedia.com/dictionary/, https://proverb-encyclopedia.com/two/, https://proverb-encyclopedia.com/dictionary/, https://sanji-jukugo.com/ and https://yoji-jukugo.com/
 
 <details>
 
-<summary>Salwynn's notes/images</summary>
+<summary>Images</summary>
 
-> Improved entries (around ~30k duplicates) by comparing readings with other dicts (漢字遣い参考 /
-> 明鏡国語辞典　第二版 etc...)
->
-> Ex : [売り出し] initial term // [売出し] - [売出] duplicates
->
-> Ex : 連らく initial term // [連絡] duplicate
->
-> Ex : とうきょうと initial term (only kana) // [東京都] duplicate
->
-> 56k entries + some 使い分け section (up your Text scan length in yomitan's settings to scan these)
->
-> Includes 例文 / 熟語 / 成句 for most defs
->
-> Thoughts : For testing it several weeks, I think this dict deserves his first place, above 三省堂
-> 国語辞典　第八版
->
-> Notes : This dict needs to get conjugation for yomitan. If there are other issues about this dict,
-> let me know.
-
-From
-[Discord](https://discord.com/channels/617136488840429598/778430038159655012/1205993624794308660)
-
-![image](https://github.com/MarvNC/yomichan-dictionaries/assets/17340496/d8d37009-f9e6-49aa-8639-364d6bae76df)
-![image](https://github.com/MarvNC/yomichan-dictionaries/assets/17340496/8ce2c072-03f6-4f12-bfe6-43be11f8a42c)
-![image](https://github.com/MarvNC/yomichan-dictionaries/assets/17340496/542f2a67-d72b-4542-9c31-b899a3abaf18)
+![image](https://github.com/user-attachments/assets/5e7f42ff-c21b-4afd-a8b8-e18009ae3875)
 
 </details>
 
-**きっずジャポニカ 新版**
+**四字熟語の百科事典**
 
-Kids' Japonica converted by Salwynn.
+Yojis and images from https://idiom-encyclopedia.com/ (includes 三字熟語 as well)
 
 <details>
+
 <summary>Images</summary>
 
-![image](https://github.com/MarvNC/yomitan-dictionaries/assets/17340496/79e3cd8e-7a2d-4a3e-b219-76d93de1ab04)
+![image](https://github.com/user-attachments/assets/6b6648b1-6c12-4e6e-aa1b-fc6704750ad6)
 
 </details>
 
@@ -335,20 +327,76 @@ Includes images, data from https://proverb-encyclopedia.com/
 
 <summary>Images</summary>
 
-![image](https://github.com/MarvNC/yomitan-dictionaries/assets/17340496/ce8cc9bb-594b-403f-9d4e-44bc1ed9898f)
+![image](https://github.com/user-attachments/assets/f935add1-66e3-4114-bd48-5d1cabaa8041)
 
 </details>
 
 **絵でわかる慣用句**
 
 From 絵でわかる慣用句 at https://kaku-navi.com/ which includes cute manga strips explaining things
-along with text explanations.
+along with text explanations. Updates daily.
 
 <details>
 
 <summary>Images</summary>
 
-![image](https://github.com/MarvNC/yomitan-dictionaries/assets/17340496/2d130064-62a7-43d1-b0e8-b2a2e440dc6d)
+![image](https://github.com/user-attachments/assets/c39a0381-dd47-4983-a238-004abe49ad5b)
+![image](https://github.com/user-attachments/assets/070bca72-f933-406c-9b78-801db85b6a91)
+
+</details>
+
+**ネット用語辞典「ネット王子」**
+
+Data from https://netyougo.com/. It focuses on forum culture (like [2ch](https://2ch.sc/)), tweets, popular phrases, and what was trending at the time. (5488 entries)
+
+<details>
+
+<summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/a8840e1e-13e1-4def-a323-2bfc2394bf1d)
+![image](https://github.com/user-attachments/assets/60841d6f-065b-49bb-bf50-0c0064e5a632)
+
+</details>
+
+**形容詞・動詞のイラスト素材辞典**
+
+Pictures scraped from Bing Images (exclusive verbs, adj-i with single kanji) (10,167枚 for 3162 entries)
+
+<details>
+
+<summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/5bd2614f-7cdc-4081-88bf-325e573e1b88)
+
+</details>
+
+**用例.jp**
+
+10 preview examples of entries from Jmdict that are tagged with [ichi1], [gai1], [news1], [spec1], or [spec2], on [yourei.jp](yourei.jp) excluding anything that doesn’t relate to a common noun. 20932 entries.
+
+<details>
+
+<summary>Salwynn's Note</summary>
+
+> I think it offers more context and example sentences than some monolingual dictionaries, which don’t always provide them—or only offer a few of the most ‘representative’ ones. 
+
+<details>
+
+<summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/232cc25e-7acc-4cca-81a8-63dbafa07498)
+
+</details>
+
+**きっずジャポニカ 新版**
+
+Kids' Japonica converted by Salwynn.
+
+<details>
+
+<summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/bbc58a67-f03f-425b-a5e2-f202e0c61452)
 
 </details>
 
@@ -366,50 +414,13 @@ Pokemon images from https://zukan.pokemon.co.jp/
 
 **TMW Club**
 
-A few hundred food images collected from the web by TMW's cooking club.
+1,924 images from a few hundred food images collected from the web by TMW's cooking club and flowers from Anki deck.
 
 <details>
 
 <summary>Images</summary>
 
 ![image](https://github.com/MarvNC/yomitan-dictionaries/assets/17340496/c4f6b36c-db56-4fff-95a1-e6af20ab077c)
-
-</details>
-
-**四字熟語の百科事典**
-
-Yojis and images from https://idiom-encyclopedia.com/ (includes 三字熟語 as well)
-
-<details>
-
-<summary>Images</summary>
-
-![image](https://github.com/MarvNC/yomitan-dictionaries/assets/17340496/34a4ac38-0844-48a6-9b74-b044092a2d7a)
-
-</details>
-
-**語彙力・二字熟語の百科事典**
-
-Phrases with images from https://proverb-encyclopedia.com/dictionary/
-
-<details>
-
-<summary>Images</summary>
-
-![image](https://github.com/MarvNC/yomitan-dictionaries/assets/17340496/6ab42425-3bce-4779-9814-ae7119231583)
-
-</details>
-
-**素材辞典**
-
-1.382 Images from the [Kaishi 1.5k anki deck](https://github.com/donkuri/Kaishi). Mostly images by
-いらすとや.
-
-<details>
-
-<summary>Images</summary>
-
-![image](https://github.com/MarvNC/yomitan-dictionaries/assets/17340496/34879013-09c6-49b1-85d1-f508e467986b)
 
 </details>
 
