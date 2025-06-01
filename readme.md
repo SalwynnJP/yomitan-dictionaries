@@ -249,7 +249,7 @@ I'm not entirely sure how to update this properly, but I think they should proba
 - 実用日本語表現辞典 (Recommended)
 - 新明解国語辞典 第七版 (Recommended)
 - 明鏡国語辞典 第三版 (Recommended)
-- Converted by Caoimhe.
+  - Converted by Caoimhe.
 - 旺文社国語辞典 第十二版 (Recommended)
   - Converted by Caoimhe.
 - 三省堂 全訳読解古語辞典 (Recommended for 古語)
@@ -277,9 +277,9 @@ I'm not entirely sure how to update this properly, but I think they should proba
 - 日本語俗語辞書
   - Scraped/converted by Kartoffel.
 - 旺文社漢字典 第四版
- - Converted by Caoimhe.
+  - Converted by Caoimhe.
 - 角川新字源
- - Converted by Caoimhe.
+  - Converted by Caoimhe.
 - 漢字源
 
 #### Caoimhe's dictionaries
