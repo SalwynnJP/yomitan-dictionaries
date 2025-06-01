@@ -441,7 +441,7 @@ Look up term's pictures faster on web.
 
 > Make sure to enable Link Preview to have these pop-ups
 
-[screen-capture.webm](https://github.com/user-attachments/assets/cfbd0575-200f-4b9c-a446-88e1dbd8ea58)
+![screen-capture (1)](https://github.com/user-attachments/assets/3af6ad18-83df-40c5-b6ec-ce28507fbda5)
 ![image](https://github.com/user-attachments/assets/2c09efc8-5591-4d67-988e-1aa74d6cd2f3)
 
 </details>
