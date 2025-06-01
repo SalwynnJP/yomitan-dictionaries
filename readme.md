@@ -241,6 +241,8 @@ people. Check the readme in the folder for further information, and check the ex
 [learnjapanese.moe](https://learnjapanese.moe/monolingual/#recommended-dictionaries) on how to use
 them. Currently contains:
 
+<!-- idk how add comments. Some of the dictionaries from the shoui folder are outdated since they were replaced by the bint ones, which have more entries, CSS, and images.
+I'm not entirely sure how to update this properly, but I think they should probably be marked as recommended. -->
 - 広辞苑 第七版
   - Converted by [Thermosphere and shoui](https://github.com/Thermospore/koj72yomi).
 - 三省堂国語辞典　第七版 (Recommended)
@@ -274,11 +276,11 @@ them. Currently contains:
   - Converted by ッツ.
 - 日本語俗語辞書
   - Scraped/converted by Kartoffel.
-- 漢字源
 - 旺文社漢字典 第四版
  - Converted by Caoimhe.
 - 角川新字源
  - Converted by Caoimhe.
+- 漢字源
 
 #### Caoimhe's dictionaries
 
