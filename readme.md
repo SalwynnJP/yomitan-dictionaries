@@ -282,7 +282,7 @@ them. Currently contains:
 
 #### Caoimhe's dictionaries
 
-Dictionaries converted by Bint.
+Dictionaries converted by Caoimhe.
 
 - **[Caoimhe Yomitan Dictionaries folder](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD)**
 
@@ -307,6 +307,18 @@ Converted by Caoimhe. Data from Monokakido. 14711 entries.
 <summary>Images</summary>
 
 ![image](https://github.com/user-attachments/assets/0273ee51-3f91-4814-9561-975bf1db7669)
+
+</details>
+
+**南山堂医学大辞典 第20版**
+
+Converted by Caoimhe. Data from Monokakido. 14711 entries.
+
+<details>
+
+<summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/c1f936f1-8199-4c4a-8743-dd5915ccd83a)
 
 </details>
 
