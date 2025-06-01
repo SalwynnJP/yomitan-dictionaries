@@ -419,7 +419,7 @@ Pictures scraped from Bing Images (exclusive verbs, adj-i with single kanji) (10
 
 **用例.jp**
 
-10 preview examples of entries from Jmdict that are tagged with [ichi1], [gai1], [news1], [spec1], or [spec2], on [yourei.jp](yourei.jp) excluding anything that doesn’t relate to a common noun. 20932 entries.
+10 preview examples of entries from Jmdict that are tagged with [ichi1], [gai1], [news1], [spec1], or [spec2], on [yourei.jp](https://yourei.jp/) excluding anything that doesn’t relate to a common noun. 20932 entries.
 
 <details>
 
@@ -428,6 +428,21 @@ Pictures scraped from Bing Images (exclusive verbs, adj-i with single kanji) (10
 > I think it offers more context and example sentences than some monolingual dictionaries, which don’t always provide them—or only offer a few of the most ‘representative’ ones. 
 
 ![image](https://github.com/user-attachments/assets/232cc25e-7acc-4cca-81a8-63dbafa07498)
+
+</details>
+
+**ウェブ検索_Light**
+
+Look up term's pictures faster on web.
+
+<details>
+
+<summary>Salwynn's Note/Images</summary>
+
+> Make sure to enable Link Preview to have these pop-ups
+
+[screen-capture.webm](https://github.com/user-attachments/assets/cfbd0575-200f-4b9c-a446-88e1dbd8ea58)
+![image](https://github.com/user-attachments/assets/2c09efc8-5591-4d67-988e-1aa74d6cd2f3)
 
 </details>
 
