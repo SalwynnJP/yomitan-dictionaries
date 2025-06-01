@@ -246,9 +246,14 @@ them. Currently contains:
 - 三省堂国語辞典　第七版 (Recommended)
 - 実用日本語表現辞典 (Recommended)
 - 新明解国語辞典 第七版 (Recommended)
-- 明鏡国語辞典 第二版 (Recommended)
-- 旺文社国語辞典 第十一版 (Recommended)
-  - Converted by irhello and shoui.
+- 明鏡国語辞典 第三版 (Recommended)
+- Converted by Caoimhe.
+- 旺文社国語辞典 第十二版 (Recommended)
+  - Converted by Caoimhe.
+- 三省堂 全訳読解古語辞典 (Recommended for 古語)
+  - Converted by Caoimhe.
+- 旺文社 全訳古語辞典 (Recommended for 古語)
+  - Converted by Caoimhe.
 - Weblio 古語辞典
   - Scraped/converted by 昔男/mk68.
 - 精選版 日本国語大辞典
@@ -261,8 +266,8 @@ them. Currently contains:
 - 岩波国語辞典 第六版
 - 大辞林 第三版
 - ハイブリッド新辞林 v2
-- デジタル大辞泉
-  - Converted by ッツ.
+- デジタル大辞泉 (Updated ver.)
+  - Converted by Caoimhe.
 - 新明解四字熟語辞典
   - Converted by ッツ.
 - 学研 四字熟語辞典
@@ -270,16 +275,20 @@ them. Currently contains:
 - 日本語俗語辞書
   - Scraped/converted by Kartoffel.
 - 漢字源
+- 旺文社漢字典 第四版
+ - Converted by Caoimhe.
+- 角川新字源
+ - Converted by Caoimhe.
 
-#### Bint's dictionaries
+#### Caoimhe's dictionaries
 
 Dictionaries converted by Bint.
 
-- **[Bint Yomitan Dictionaries folder](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD)**
+- **[Caoimhe Yomitan Dictionaries folder](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD)**
 
 **例解学習国語辞典 第十一版**
 
-Converted by Bint. Data from Monokakido. Include as well images, 筆順 etc... Great for semi-beginners.
+Converted by Caoimhe. Data from Monokakido. Include as well images, 筆順 etc... Great for semi-beginners.
 
 <details>
 
@@ -291,7 +300,7 @@ Converted by Bint. Data from Monokakido. Include as well images, 筆順 etc... G
 
 **有斐閣法律用語辞典 第５版**
 
-Converted by Bint. Data from Monokakido. 14711 entries.
+Converted by Caoimhe. Data from Monokakido. 14711 entries.
 
 <details>
 
@@ -303,7 +312,7 @@ Converted by Bint. Data from Monokakido. 14711 entries.
 
 **現代心理学辞典**
 
-Converted by Bint. Data from Monokakido. 10223 entries.
+Converted by Caoimhe. Data from Monokakido. 10223 entries.
 
 <details>
 
