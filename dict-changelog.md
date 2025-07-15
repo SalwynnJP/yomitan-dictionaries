@@ -8,8 +8,16 @@ These dictionaries are automatically updated daily and will not have new changel
 - Pixiv Encyclopedia
 - CC-CEDICT
 - CC-CEDICT Hanzi
+- CC-CEDICT Canto
 - Words.HK
 - Words.hk Honzi
+
+## 2025-07-15
+
+- Add
+  - [YUE-EN] CC-CEDICT.Canto.zip
+- Update
+  - [YUE-EN] CC-Canto.zip
 
 ## 2024-10-12
 
