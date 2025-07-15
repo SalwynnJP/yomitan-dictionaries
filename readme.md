@@ -1679,7 +1679,7 @@ This is a dictionary from
 [The National Electronics and Computer Technology Center (NECTEC)](https://www.nectec.or.th/en/about).
 NECTEC claimed that the dictionary contained 53,000 entities but this Yomitan version, which
 [obtained from the official site](https://opend-portal.nectec.or.th/dataset/lexitron-2-0), contained
-only 40854 entities. It is a good dictionary that also came with measure word, synonyms, antonyms,
+only 40,854 entities. It is a good dictionary that also came with measure word, synonyms, antonyms,
 example sentence, and sometimes provided note about loanwords/specialized field.
 
 ## English-English
