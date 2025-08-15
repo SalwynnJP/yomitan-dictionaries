@@ -11,7 +11,7 @@ These dictionaries are automatically updated daily and will not have new changel
 - Words.HK
 - Words.hk Honzi
 
-## 2025-06-01 (part 2)
+## 2025-08-16 (part 2)
 - Add
   - [EN-JA] 研究社 新英和大辞典
   - [EN-JA] オックスフォード英語類語辞典
