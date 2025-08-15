@@ -8,6 +8,7 @@ These dictionaries are automatically updated daily and will not have new changel
 - Pixiv Encyclopedia
 - CC-CEDICT
 - CC-CEDICT Hanzi
+- CC-CEDICT Canto
 - Words.HK
 - Words.hk Honzi
 
@@ -36,6 +37,20 @@ These dictionaries are automatically updated daily and will not have new changel
   - other/素材辞典 <!--updated with Bing Images (combined.zip) but it’s not clean yet, as it’s already too heavy (1.4GB), not very mature. I still need to work on it, add some things manually, compress pics and fix a few issues...-->
 
 ## 2024-05-11
+=======
+## 2025-07-15
+
+- Add
+  - [YUE-EN] CC-CEDICT.Canto.zip
+- Update
+  - [YUE-EN] CC-Canto.zip
+
+## 2024-10-12
+
+- Update
+  - [JA-JA] 新選国語辞典　第十版 (better version)
+
+## 2024-05-11 (part 2)
 
 - Add
   - [JA-EN Onomatopoeia] Onomatoproject
