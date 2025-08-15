@@ -249,13 +249,37 @@ I'm not entirely sure how to update this properly, but I think they should proba
 - 実用日本語表現辞典 (Recommended)
 - 新明解国語辞典 第七版 (Recommended)
 - 明鏡国語辞典 第三版 (Recommended)
-  - Converted by Caoimhe.
+<details>
+<summary>Converted by Caoimhe.</summary>
+
+![明鏡国語辞典 第三版](https://github.com/user-attachments/assets/eb52553d-fcea-4914-a714-8ec9756a94b7)
+
+</details>
+
 - 旺文社国語辞典 第十二版 (Recommended)
-  - Converted by Caoimhe.
+<details>
+<summary>Converted by Caoimhe.</summary>
+
+![旺文社国語辞典 第十二版](https://github.com/user-attachments/assets/8df1af23-5b89-4463-9829-ececc642cd6a)
+
+</details>
+
 - 三省堂 全訳読解古語辞典 (Recommended for 古語)
-  - Converted by Caoimhe.
+<details>
+<summary>Converted by Caoimhe.</summary>
+
+![三省堂 全訳読解古語辞典](https://github.com/user-attachments/assets/ecc1226c-17f6-4d3f-a217-cb37f0c75fb7)
+
+</details>
+
 - 旺文社 全訳古語辞典 (Recommended for 古語)
-  - Converted by Caoimhe.
+<details>
+<summary>Converted by Caoimhe.</summary>
+
+![旺文社 全訳古語辞典](https://github.com/user-attachments/assets/db627740-b471-4cdd-a3a4-8708705eaec0)
+
+</details>
+
 - Weblio 古語辞典
   - Scraped/converted by 昔男/mk68.
 - 精選版 日本国語大辞典
@@ -269,7 +293,13 @@ I'm not entirely sure how to update this properly, but I think they should proba
 - 大辞林 第三版
 - ハイブリッド新辞林 v2
 - デジタル大辞泉 (Updated ver.)
-  - Converted by Caoimhe.
+<details>
+<summary>Converted by Caoimhe.</summary>
+
+![デジタル大辞泉](https://github.com/user-attachments/assets/7a656017-c7c6-4856-877b-b23b960dda3d)
+
+</details>
+
 - 新明解四字熟語辞典
   - Converted by ッツ.
 - 学研 四字熟語辞典
@@ -277,9 +307,21 @@ I'm not entirely sure how to update this properly, but I think they should proba
 - 日本語俗語辞書
   - Scraped/converted by Kartoffel.
 - 旺文社漢字典 第四版
-  - Converted by Caoimhe.
+<details>
+<summary>Converted by Caoimhe.</summary>
+
+![旺文社漢字典 第四版](https://github.com/user-attachments/assets/c14b5864-9856-4eee-8665-9e5995a001cf)
+
+</details>
+
 - 角川新字源
-  - Converted by Caoimhe.
+<details>
+<summary>Converted by Caoimhe.</summary>
+
+![角川新字源](https://github.com/user-attachments/assets/c6c13ae7-5139-4429-a18f-4fd984862ff0)
+
+</details>
+
 - 漢字源
 
 #### Caoimhe's dictionaries
@@ -296,7 +338,8 @@ Converted by Caoimhe. Data from Monokakido. Include as well images, 筆順 etc..
 
 <summary>Images</summary>
 
-![image](https://github.com/user-attachments/assets/5b9552df-3f26-443b-96ea-a2e6457c41b2)
+![例解学習国語辞典 第十一版_1](https://github.com/user-attachments/assets/e0f5eb2a-8a6c-4798-a931-4a51fba4d83d)
+![例解学習国語辞典 第十一版_2](https://github.com/user-attachments/assets/816ff1c9-932b-408e-a5fc-5b8e536eea7c)
 
 </details>
 
@@ -308,19 +351,19 @@ Converted by Caoimhe. Data from Monokakido. 14711 entries.
 
 <summary>Images</summary>
 
-![image](https://github.com/user-attachments/assets/0273ee51-3f91-4814-9561-975bf1db7669)
+![有斐閣法律用語辞典 第５版](https://github.com/user-attachments/assets/da1b7481-4189-45da-887a-0c5e7b31019c)
 
 </details>
 
 **南山堂医学大辞典 第20版**
 
-Converted by Caoimhe. Data from Monokakido. 14711 entries.
+Converted by Caoimhe. Data from Monokakido. 39087 entries.
 
 <details>
 
 <summary>Images</summary>
 
-![image](https://github.com/user-attachments/assets/c1f936f1-8199-4c4a-8743-dd5915ccd83a)
+![南山堂医学大辞典 第20版](https://github.com/user-attachments/assets/184b7b45-1f27-42e0-ac28-39270df32506)
 
 </details>
 
@@ -332,7 +375,43 @@ Converted by Caoimhe. Data from Monokakido. 10223 entries.
 
 <summary>Images</summary>
 
-![image](https://github.com/user-attachments/assets/878893f6-bcf5-4fb4-8a98-e5a24860c1e8)
+![現代心理学辞典](https://github.com/user-attachments/assets/110b729e-a920-420a-9b09-3c20d603df7b)
+
+</details>
+
+**研究社 新英和大辞典**
+
+Converted by Caoimhe. Data from Monokakido.
+
+<details>
+
+<summary>Images</summary>
+
+![研究社 新英和大辞典](https://github.com/user-attachments/assets/acc332a0-c5a8-46fe-8756-4f628c6f269a)
+
+</details>
+
+**オックスフォード英語類語辞典**
+
+Converted by Caoimhe. Data from Monokakido.
+
+<details>
+
+<summary>Images</summary>
+
+![オックスフォード英語類語辞典](https://github.com/user-attachments/assets/3ff519bc-d665-43f6-9d57-04200605d865)
+
+</details>
+
+**ライトハウス英和辞典 第7版**
+
+Converted by Caoimhe. Data from Monokakido.
+
+<details>
+
+<summary>Images</summary>
+
+![ライトハウス英和辞典 第7版](https://github.com/user-attachments/assets/8e244573-7dc8-471f-ba68-a7ca5d72f9fc)
 
 </details>
 
