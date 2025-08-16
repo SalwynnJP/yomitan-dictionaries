@@ -67,15 +67,13 @@ My related dictionary resources:
 **[Changelog](dict-changelog.md)**
 
 Here is a folder containing all the Japanese, Mandarin, and Cantonese dictionaries that I personally
-use and would recommend. I usually keep up to date with the latest versions of the dictionaries, and
-the folder is configured to automatically download and import the regularly updating dictionaries
-such as Jitendex, JMnedict, and KANJIDIC. If there is a dictionary in the folder that is outdated,
-please let me know!
+use and would recommend. If there is a dictionary in the folder that is outdated, please let me
+know!
 
 <!-- prettier-ignore -->
 > [!TIP]
 > - **But scrolling to the next entry takes too long!**
-> - Here are some shortcuts that may or may not help you with this:
+> - Here are some shortcuts that may help you with this:
 >   - `alt + scroll down`
 >   - `alt + pagedown`
 >   - `alt + down arrow`
