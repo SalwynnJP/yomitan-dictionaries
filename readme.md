@@ -103,6 +103,7 @@ If you're a beginner, I would say the _bare minimum_ to install from the
 - Monolingual but still useful for coverage to a beginner! If a word shows up in one of these
   dictionaries but not an English one, you can just web search/translate to find out more
   information.
+  - [JA-JA] 小学館例解学習国語 第十二版 (best beginner mono dict, includes simple example sentences and furigana)
   - [JA-JA] 実用日本語表現辞典
   - [JA-JA] デジタル大辞泉
   - [JA-JA Encyclopedia] Pixiv
