@@ -12,6 +12,35 @@ These dictionaries are automatically updated daily and will not have new changel
 - Words.HK
 - Words.hk Honzi
 
+## 2025-08-16 (part 1)
+
+- Add
+  - [JA-JA Kanji] 旺文社漢字典 第四版[2025-07-19]
+  - [JA-JA Kanji] TISMKANJI[2025-04-24]
+  - [JA-JA Kanji] 角川新字源 改訂新版[2025-04-29]
+  - [JA-JA Kogo] 旺文社 全訳古語辞典[2025-04-29]
+  - [JA-JA Kogo] 三省堂 全訳読解古語辞典[2025-04-29]
+  - [JA-JA] 小学館例解学習国語 第十二版[2025-08-09]
+  - [JA-JA] 旺文社国語辞典 第十二版[2025-04-29]
+  - [JA-JA] 大辞泉 第二版[2025-04-29]
+  - [JA-JA] 明鏡国語辞典 第三版[2025-08-09]
+  - [JA-JA Law] 有斐閣 法律用語辞典[2025-04-22]
+  - [JA-JA Medical] 南山堂医学大辞典 第 20 版[2025-04-29]
+  - [JA-JA Psychology] 有斐閣現代心理学辞典[2025-04-29]
+  - [JA-JA Sentences] 用例.jp
+  - [JA-JA Slang] ネット用語辞典「ネット王子」
+  - other/形容詞・動詞のイラスト素材辞典
+- Remove
+  - [JA-JA] 例解学習国語辞典 第十一版 (from Salwynn)
+  - other/素材辞典
+    <!--updated with Bing Images (combined.zip) but it’s not clean yet, as it’s already too heavy (1.4GB), not very mature. I still need to work on it, add some things manually, compress pics and fix a few issues...-->
+  - [JA-JA Kanji] 漢字林 (Replaced by [JA-JA Kanji] TISMKANJI[2025-04-24])
+  - [JA-JA] 旺文社国語辞典 第十一版 (Replaced by [JA-JA] 旺文社国語辞典 第十二版[2025-04-29])
+  - [JA-JA] 例解学習国語辞典 第十一版 [2024-04-30] (Replaced by [JA-JA] 小学館例解学習国語 第十二
+    版[2025-08-09])
+  - [JA-JA] デジタル大辞泉 (Replaced by [JA-JA] 大辞泉 第二版[2025-04-29])
+  - [JA-JA] 明鏡国語辞典　第二版\_2023_07_22 (Replaced by [JA-JA] 明鏡国語辞典 第三版[2025-08-09])
+
 ## 2025-07-15
 
 - Add
@@ -39,17 +68,17 @@ These dictionaries are automatically updated daily and will not have new changel
 
 - Add
   - other/語彙力・二字熟語の百科事典
-  - other/四字熟語の百科事典 [2024-06-30] (typos fixed)
-  - [画像付き] 絵でわかる日本語 v3 (img + text)
+  - other/四字熟語の百科事典
+  - [画像付き] 絵でわかる日本語
   - 絵でわかる慣用句 [2024-06-30]
-  - ことわざ・慣用句の百科事典 [2024-06-30] (typos fixed)
+  - ことわざ・慣用句の百科事典
   - きっずジャポニカ 新版
   - other/ポケモン図鑑
-  - other/TMW Club v2 [2024-05-12]
+  - other/TMW Club v2
 - Update
   - other/素材辞典 v4.2 [2024-05-21]
 - Remove
-  - other/TMW Cooking Club [2024-04-30] (Replaced by TMW Club v2)
+  - other/TMW Cooking Club (Replaced by TMW Club v2)
 - Move
   - [JA Grammar] edewakaru_v_1_03 -> other/[JA Grammar] edewakaru_v_1_03 (Obselete by new version
     with images)

@@ -57,6 +57,7 @@ My related dictionary resources:
   - [Lao](#lao)
   - [Thai](#thai)
   - [English-English](#english-english)
+    - [English-Japanese](#english-japanese)
   - [Other Languages](#other-languages)
 
 # Dictionary Collection
@@ -176,18 +177,6 @@ A dictionary of Japanese proper names. The linked version is advantageous over t
 Yomichan homepage as it clutters the search page much less when searching, so it's highly
 recommended.
 
-#### Shoui Bilingual Dictionaries Collection
-
-**[Download](https://learnjapanese.moe/resources/#dictionaries)**
-
-There are various bilingual dictionaries in Shoui's bilingual folder. Check the readme in the folder
-for further information.
-
-- 新和英 (Recommended)
-  - Same as the 研究社　新和英大辞典　第５版 with better deconjugation but lacking some additional
-    sentences.
-- 研究社　新和英大辞典　第５版
-
 #### New Saitou Japanese-English Dictionary
 
 Find `[JA-EN] NEW 斎藤和英大辞典` in the [dictionary collection](#dictionary-collection).
@@ -232,23 +221,45 @@ Onomatopoeia converted by Malte from https://onomatoproject.com/.
 
 ### Japanese Monolingual Dictionaries
 
-#### Shoui Monolingual Dictionaries Collection
-
-**[Download](https://learnjapanese.moe/resources/#dictionaries)**
-
-There are various monolingual dictionaries in Shoui's monolingual folder, authored by various
-people. Check the readme in the folder for further information, and check the explanation on
-[learnjapanese.moe](https://learnjapanese.moe/monolingual/#recommended-dictionaries) on how to use
-them. Currently contains:
+Found in the [dictionary collection](#dictionary-collection).
 
 - 広辞苑 第七版
   - Converted by [Thermosphere and shoui](https://github.com/Thermospore/koj72yomi).
-- 三省堂国語辞典　第七版 (Recommended)
-- 実用日本語表現辞典 (Recommended)
-- 新明解国語辞典 第七版 (Recommended)
-- 明鏡国語辞典 第二版 (Recommended)
-- 旺文社国語辞典 第十一版 (Recommended)
-  - Converted by irhello and shoui.
+- 三省堂国語辞典　第七版
+- 実用日本語表現辞典
+- 新明解国語辞典 第七版
+- 明鏡国語辞典 第三版
+<details>
+<summary>Converted by Caoimhe.</summary>
+
+![明鏡国語辞典 第三版](https://github.com/user-attachments/assets/eb52553d-fcea-4914-a714-8ec9756a94b7)
+
+</details>
+
+- 旺文社国語辞典 第十二版
+<details>
+<summary>Converted by Caoimhe.</summary>
+
+![旺文社国語辞典 第十二版](https://github.com/user-attachments/assets/8df1af23-5b89-4463-9829-ececc642cd6a)
+
+</details>
+
+- 三省堂 全訳読解古語辞典
+<details>
+<summary>Converted by Caoimhe.</summary>
+
+![三省堂 全訳読解古語辞典](https://github.com/user-attachments/assets/ecc1226c-17f6-4d3f-a217-cb37f0c75fb7)
+
+</details>
+
+- 旺文社 全訳古語辞典
+<details>
+<summary>Converted by Caoimhe.</summary>
+
+![旺文社 全訳古語辞典](https://github.com/user-attachments/assets/db627740-b471-4cdd-a3a4-8708705eaec0)
+
+</details>
+
 - Weblio 古語辞典
   - Scraped/converted by 昔男/mk68.
 - 精選版 日本国語大辞典
@@ -261,15 +272,93 @@ them. Currently contains:
 - 岩波国語辞典 第六版
 - 大辞林 第三版
 - ハイブリッド新辞林 v2
-- デジタル大辞泉
-  - Converted by ッツ.
+- デジタル大辞泉 (Updated ver.)
+<details>
+<summary>Converted by Caoimhe.</summary>
+
+![デジタル大辞泉](https://github.com/user-attachments/assets/7a656017-c7c6-4856-877b-b23b960dda3d)
+
+</details>
+
 - 新明解四字熟語辞典
   - Converted by ッツ.
 - 学研 四字熟語辞典
   - Converted by ッツ.
 - 日本語俗語辞書
   - Scraped/converted by Kartoffel.
+- 旺文社漢字典 第四版
+<details>
+<summary>Converted by Caoimhe.</summary>
+
+![旺文社漢字典 第四版](https://github.com/user-attachments/assets/c14b5864-9856-4eee-8665-9e5995a001cf)
+
+</details>
+
+- 角川新字源
+<details>
+<summary>Converted by Caoimhe.</summary>
+
+![角川新字源](https://github.com/user-attachments/assets/c6c13ae7-5139-4429-a18f-4fd984862ff0)
+
+</details>
+
 - 漢字源
+
+#### Caoimhe's dictionaries
+
+Dictionaries converted by Caoimhe.
+
+- **[Caoimhe Yomitan Dictionaries folder](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD)**
+
+**例解学習国語辞典 第十二版**
+
+Converted by Caoimhe. Data from Monokakido. Include as well images, 筆順 etc... Great for
+semi-beginners.
+
+<details>
+
+<summary>Images</summary>
+
+![例解学習国語辞典 第十一版_1](https://github.com/user-attachments/assets/e0f5eb2a-8a6c-4798-a931-4a51fba4d83d)
+![例解学習国語辞典 第十一版_2](https://github.com/user-attachments/assets/816ff1c9-932b-408e-a5fc-5b8e536eea7c)
+
+</details>
+
+**有斐閣法律用語辞典 第５版**
+
+Converted by Caoimhe. Data from Monokakido. 14711 entries.
+
+<details>
+
+<summary>Images</summary>
+
+![有斐閣法律用語辞典 第５版](https://github.com/user-attachments/assets/da1b7481-4189-45da-887a-0c5e7b31019c)
+
+</details>
+
+**南山堂医学大辞典 第 20 版**
+
+Converted by Caoimhe. Data from Monokakido. 39087 entries.
+
+<details>
+
+<summary>Images</summary>
+
+![南山堂医学大辞典 第20版](https://github.com/user-attachments/assets/184b7b45-1f27-42e0-ac28-39270df32506)
+
+</details>
+
+**現代心理学辞典**
+
+Converted by Caoimhe. Data from Monokakido. 10223 entries.
+
+<details>
+
+<summary>Images</summary>
+
+![現代心理学辞典](https://github.com/user-attachments/assets/110b729e-a920-420a-9b09-3c20d603df7b)
+
+</details>
 
 #### Salwynn's dictionaries
 
@@ -277,53 +366,29 @@ Dictionaries converted by Salwynn.
 
 - **[Salwynn Yomitan Dictionaries folder](https://drive.google.com/drive/folders/1CPPAgKzz_PDEb7JUPHGioONTEQg0aCHW)**
 
-**例解学習国語辞典 第十一版 Reikai Gakushuu Kokugo Jiten**
+**語彙力・熟語の百科事典**
 
-Find `[JA-JA] 例解学習国語辞典 第十一版 [2024-04-30]` in the
-[dictionary collection](#dictionary-collection).
-
-Converted by @SalwynnJP with data provided by Ludia.
+Jukugo and expressions with images from https://proverb-encyclopedia.com/dictionary/,
+https://proverb-encyclopedia.com/two/, https://proverb-encyclopedia.com/dictionary/,
+https://sanji-jukugo.com/ and https://yoji-jukugo.com/
 
 <details>
 
-<summary>Salwynn's notes/images</summary>
+<summary>Images</summary>
 
-> Improved entries (around ~30k duplicates) by comparing readings with other dicts (漢字遣い参考 /
-> 明鏡国語辞典　第二版 etc...)
->
-> Ex : [売り出し] initial term // [売出し] - [売出] duplicates
->
-> Ex : 連らく initial term // [連絡] duplicate
->
-> Ex : とうきょうと initial term (only kana) // [東京都] duplicate
->
-> 56k entries + some 使い分け section (up your Text scan length in yomitan's settings to scan these)
->
-> Includes 例文 / 熟語 / 成句 for most defs
->
-> Thoughts : For testing it several weeks, I think this dict deserves his first place, above 三省堂
-> 国語辞典　第八版
->
-> Notes : This dict needs to get conjugation for yomitan. If there are other issues about this dict,
-> let me know.
-
-From
-[Discord](https://discord.com/channels/617136488840429598/778430038159655012/1205993624794308660)
-
-![image](https://github.com/MarvNC/yomichan-dictionaries/assets/17340496/d8d37009-f9e6-49aa-8639-364d6bae76df)
-![image](https://github.com/MarvNC/yomichan-dictionaries/assets/17340496/8ce2c072-03f6-4f12-bfe6-43be11f8a42c)
-![image](https://github.com/MarvNC/yomichan-dictionaries/assets/17340496/542f2a67-d72b-4542-9c31-b899a3abaf18)
+![image](https://github.com/user-attachments/assets/5e7f42ff-c21b-4afd-a8b8-e18009ae3875)
 
 </details>
 
-**きっずジャポニカ 新版**
+**四字熟語の百科事典**
 
-Kids' Japonica converted by Salwynn.
+Yojis and images from https://idiom-encyclopedia.com/ (includes 三字熟語 as well)
 
 <details>
+
 <summary>Images</summary>
 
-![image](https://github.com/MarvNC/yomitan-dictionaries/assets/17340496/79e3cd8e-7a2d-4a3e-b219-76d93de1ab04)
+![image](https://github.com/user-attachments/assets/6b6648b1-6c12-4e6e-aa1b-fc6704750ad6)
 
 </details>
 
@@ -335,20 +400,92 @@ Includes images, data from https://proverb-encyclopedia.com/
 
 <summary>Images</summary>
 
-![image](https://github.com/MarvNC/yomitan-dictionaries/assets/17340496/ce8cc9bb-594b-403f-9d4e-44bc1ed9898f)
+![image](https://github.com/user-attachments/assets/f935add1-66e3-4114-bd48-5d1cabaa8041)
 
 </details>
 
 **絵でわかる慣用句**
 
 From 絵でわかる慣用句 at https://kaku-navi.com/ which includes cute manga strips explaining things
-along with text explanations.
+along with text explanations. Updates daily.
 
 <details>
 
 <summary>Images</summary>
 
-![image](https://github.com/MarvNC/yomitan-dictionaries/assets/17340496/2d130064-62a7-43d1-b0e8-b2a2e440dc6d)
+![image](https://github.com/user-attachments/assets/c39a0381-dd47-4983-a238-004abe49ad5b)
+![image](https://github.com/user-attachments/assets/070bca72-f933-406c-9b78-801db85b6a91)
+
+</details>
+
+**ネット用語辞典「ネット王子」**
+
+Data from https://netyougo.com/. It focuses on forum culture (like [2ch](https://2ch.sc/)), tweets,
+popular phrases, and what was trending at the time. (5488 entries)
+
+<details>
+
+<summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/a8840e1e-13e1-4def-a323-2bfc2394bf1d)
+![image](https://github.com/user-attachments/assets/60841d6f-065b-49bb-bf50-0c0064e5a632)
+
+</details>
+
+**形容詞・動詞のイラスト素材辞典**
+
+Pictures scraped from Bing Images (exclusive verbs, adj-i with single kanji) (10,167 枚 for 3162
+entries)
+
+<details>
+
+<summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/5bd2614f-7cdc-4081-88bf-325e573e1b88)
+
+</details>
+
+**用例.jp**
+
+10 preview examples of entries from Jmdict that are tagged with [ichi1], [gai1], [news1], [spec1],
+or [spec2], on [yourei.jp](https://yourei.jp/) excluding anything that doesn’t relate to a common
+noun. 20932 entries.
+
+<details>
+
+<summary>Salwynn's Note/Images</summary>
+
+> I think it offers more context and example sentences than some monolingual dictionaries, which
+> don’t always provide them—or only offer a few of the most ‘representative’ ones.
+
+![image](https://github.com/user-attachments/assets/232cc25e-7acc-4cca-81a8-63dbafa07498)
+
+</details>
+
+**ウェブ検索\_Light**
+
+Look up term's pictures faster on web.
+
+<details>
+
+<summary>Salwynn's Note/Images</summary>
+
+> Make sure to enable Link Preview to have these pop-ups
+
+![screen-capture (1)](https://github.com/user-attachments/assets/3af6ad18-83df-40c5-b6ec-ce28507fbda5)
+![image](https://github.com/user-attachments/assets/2c09efc8-5591-4d67-988e-1aa74d6cd2f3)
+
+</details>
+
+**きっずジャポニカ 新版**
+
+Kids' Japonica converted by Salwynn.
+
+<details>
+
+<summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/bbc58a67-f03f-425b-a5e2-f202e0c61452)
 
 </details>
 
@@ -366,50 +503,14 @@ Pokemon images from https://zukan.pokemon.co.jp/
 
 **TMW Club**
 
-A few hundred food images collected from the web by TMW's cooking club.
+1,924 images from a few hundred food images collected from the web by TMW's cooking club and flowers
+from Anki deck.
 
 <details>
 
 <summary>Images</summary>
 
 ![image](https://github.com/MarvNC/yomitan-dictionaries/assets/17340496/c4f6b36c-db56-4fff-95a1-e6af20ab077c)
-
-</details>
-
-**四字熟語の百科事典**
-
-Yojis and images from https://idiom-encyclopedia.com/ (includes 三字熟語 as well)
-
-<details>
-
-<summary>Images</summary>
-
-![image](https://github.com/MarvNC/yomitan-dictionaries/assets/17340496/34a4ac38-0844-48a6-9b74-b044092a2d7a)
-
-</details>
-
-**語彙力・二字熟語の百科事典**
-
-Phrases with images from https://proverb-encyclopedia.com/dictionary/
-
-<details>
-
-<summary>Images</summary>
-
-![image](https://github.com/MarvNC/yomitan-dictionaries/assets/17340496/6ab42425-3bce-4779-9814-ae7119231583)
-
-</details>
-
-**素材辞典**
-
-1.382 Images from the [Kaishi 1.5k anki deck](https://github.com/donkuri/Kaishi). Mostly images by
-いらすとや.
-
-<details>
-
-<summary>Images</summary>
-
-![image](https://github.com/MarvNC/yomitan-dictionaries/assets/17340496/34879013-09c6-49b1-85d1-f508e467986b)
 
 </details>
 
@@ -1371,6 +1472,11 @@ server. Includes:
 - 譯典通英漢雙向字典
 - 五南國語活用辭典
 
+#### 小学館中日辞典 第 3 版
+
+Find `小学館中日辞典 第3版` in the
+[Caoimhe's dictionaries folder](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD).
+
 #### 白水社 中国語辞典 Hakusuisya Chinese-Japanese Dictionary
 
 Find `[ZH-JA] 白水社 中国語辞典` in the [dictionary collection](#dictionary-collection).
@@ -1692,6 +1798,44 @@ Oxford American Dictionary, Cambridge, Longman, Wordset, and a frequency list fr
 **[Oxford Advanced Learner's Dictionary](https://github.com/MarvNC/yomichan-dictionaries/files/14957647/oald-release-yomitan.zip)**
 
 From Seth for Yomitan. Extract it and follow instructions before use.
+
+### English-Japanese
+
+**研究社 新英和大辞典**
+
+Converted by Caoimhe. Data from Monokakido.
+
+<details>
+
+<summary>Images</summary>
+
+![研究社 新英和大辞典](https://github.com/user-attachments/assets/acc332a0-c5a8-46fe-8756-4f628c6f269a)
+
+</details>
+
+**オックスフォード英語類語辞典**
+
+Converted by Caoimhe. Data from Monokakido.
+
+<details>
+
+<summary>Images</summary>
+
+![オックスフォード英語類語辞典](https://github.com/user-attachments/assets/3ff519bc-d665-43f6-9d57-04200605d865)
+
+</details>
+
+**ライトハウス英和辞典 第 7 版**
+
+Converted by Caoimhe. Data from Monokakido.
+
+<details>
+
+<summary>Images</summary>
+
+![ライトハウス英和辞典 第7版](https://github.com/user-attachments/assets/8e244573-7dc8-471f-ba68-a7ca5d72f9fc)
+
+</details>
 
 ## Other Languages
 
