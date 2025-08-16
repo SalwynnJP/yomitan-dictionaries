@@ -31,6 +31,8 @@ These dictionaries are automatically updated daily and will not have new changel
   - [JA-JA] 新明解国語辞典　第八版
   - [JA-JA Nouns] JA Wikipedia Proper Nouns
   - [JA Freq] JPDB_v2.2_Frequency_Kana_2024-10-13
+- Remove
+  - [ZH-ZH] Xiandai Hanyu Cidian 7 现代汉语词典 (Replaced by [ZH-ZH] 现代汉语词典（第七版）)
 
 ## 2025-08-16 (part 1)
 

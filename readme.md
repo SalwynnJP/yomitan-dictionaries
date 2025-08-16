@@ -103,7 +103,8 @@ If you're a beginner, I would say the _bare minimum_ to install from the
 - Monolingual but still useful for coverage to a beginner! If a word shows up in one of these
   dictionaries but not an English one, you can just web search/translate to find out more
   information.
-  - [JA-JA] 小学館例解学習国語 第十二版 (best beginner mono dict, includes simple example sentences and furigana)
+  - [JA-JA] 小学館例解学習国語 第十二版 (best beginner mono dict, includes simple example sentences
+    and furigana)
   - [JA-JA] 大辞泉 第二版
   - [JA-JA Encyclopedia] Pixiv
 - Kanji information
@@ -1423,6 +1424,18 @@ Found in the [dictionary collection](#dictionary-collection):
   scraped by Ooodman from Heavenly Path, converted by Michel.
 - `[ZH-EN] DrEye 譯典通英漢雙向字典` - (2020-04-13) Chinese -> English dictionaries from Taiwan,
   includes example sentences and English translations. Converted by Michel.
+- `[LZH Freq] Classical Chinese Frequency Dictionary` - converted by members of the Classical East
+  Asian Languages Discord server
+- `[LZH-EN] Kroll's Classic Chinese` - converted by members of the Classical East Asian Languages
+  Discord server
+- `[LZH-EN] Vogelsang's Dictionary` - converted by members of the Classical East Asian Languages
+  Discord server
+- `[LZH-ZH Hanzi] 古汉语常用字字典`
+- `[ZH-EN] oxford-zh-en` - by sethdis
+- `[ZH-EN] Tuttle Learner's Chinese-English Dictionary`
+- `[ZH-JA] 小学館中日辞典 第 3 版[2025-05-03][pinyin]` - converted by Caoimhe
+- `[ZH-ZH] 國語辭典簡編本` - converted by shadow
+- `[ZH-ZH] 现代汉语词典（第七版）` - converted by Michel
 
 #### CEDICT
 
@@ -1823,6 +1836,8 @@ Oxford American Dictionary, Cambridge, Longman, Wordset, and a frequency list fr
 From Seth for Yomitan. Extract it and follow instructions before use.
 
 ### English-Japanese
+
+These are found in [Caoimhe's drive](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD)
 
 **研究社 新英和大辞典**
 
