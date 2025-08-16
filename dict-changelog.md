@@ -18,10 +18,10 @@ These dictionaries are automatically updated daily and will not have new changel
   - [LZH Freq] Classical Chinese Frequency Dictionary
   - [LZH-EN] Kroll's Classic Chinese
   - [LZH-EN] Vogelsang's Dictionary
+  - [LZH-ZH Hanzi] 古汉语常用字字典
   - [ZH-EN] oxford-zh-en
   - [ZH-EN] Tuttle Learner's Chinese-English Dictionary
   - [ZH-JA] 小学館中日辞典 第 3 版[2025-05-03][pinyin]
-  - [ZH-ZH Hanzi] 古汉语常用字字典
   - [ZH-ZH] 國語辭典簡編本
   - [ZH-ZH] 现代汉语词典（第七版）
   - [JA-JA Onomatopoeia] 擬音語・擬態語辞典
