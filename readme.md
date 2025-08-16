@@ -858,6 +858,12 @@ from the dictionary collection.
 > dictionaries. The example sentences tend to be more fleshed out and from relatively modern texts.
 > The entries include extensive comparison with related words.
 
+#### JA Wikipedia Proper Nouns
+
+[Project Page](https://github.com/J-O-S-H-L/JP-Proper-Noun-Dictionary?tab=readme-ov-file)
+
+Proper nouns from JA Wikipedia.
+
 ### Grammar Dictionaries
 
 #### aiko-tanaka Grammar Dictionaries

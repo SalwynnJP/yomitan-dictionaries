@@ -27,6 +27,7 @@ These dictionaries are automatically updated daily and will not have new changel
   - [JA-JA Onomatopoeia] 擬音語・擬態語辞典
 - Update
   - 新明解国語辞典　第八版
+  - [JA-JA Nouns] JA Wikipedia Proper Nouns
 
 ## 2025-08-16 (part 1)
 
