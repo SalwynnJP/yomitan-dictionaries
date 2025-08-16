@@ -24,6 +24,7 @@ These dictionaries are automatically updated daily and will not have new changel
   - [ZH-ZH Hanzi] 古汉语常用字字典
   - [ZH-ZH] 國語辭典簡編本
   - [ZH-ZH] 现代汉语词典（第七版）
+  - [JA-JA Onomatopoeia] 擬音語・擬態語辞典
 - Update
   - 新明解国語辞典　第八版
 

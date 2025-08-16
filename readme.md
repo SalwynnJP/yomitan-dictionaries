@@ -847,6 +847,17 @@ Converted by DAnon
 [Kanji de Go (漢字で Go!)](https://plicy.net/GamePlay/155561) is a fun game quizzing people on
 rare/exotic kanji terms. Converted by Marv.
 
+#### 擬音語・擬態語辞典
+
+Onomatopoeia dictionary contributed by [dubai03nsr](https://github.com/dubai03nsr).
+
+[See more details and download here](https://github.com/MarvNC/yomitan-dictionaries/issues/83) or
+from the dictionary collection.
+
+> This lightweight dictionary specializes on mimetic words, offering a depth beyond that of normal
+> dictionaries. The example sentences tend to be more fleshed out and from relatively modern texts.
+> The entries include extensive comparison with related words.
+
 ### Grammar Dictionaries
 
 #### aiko-tanaka Grammar Dictionaries
