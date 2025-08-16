@@ -107,6 +107,10 @@ If you're a beginner, I would say the _bare minimum_ to install from the
     and furigana)
   - [JA-JA] 大辞泉 第二版
   - [JA-JA Encyclopedia] Pixiv
+- Beginner questions (these will answer the questions: what is the difference between these words
+  with a similar meaning, or what does it mean when this word uses a different kanji than usual).
+  - [JA-JA Thesaurus] 使い方の分かる 類語例解辞典 [2024-05-02]
+  - [JA-JA] 漢検漢字辞典　第二版
 - Kanji information
   - [Kanji] KANJIDIC_english
   - [Kanji] JPDB Kanji
