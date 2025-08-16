@@ -57,6 +57,7 @@ My related dictionary resources:
   - [Lao](#lao)
   - [Thai](#thai)
   - [English-English](#english-english)
+    - [English-Japanese](#english-japanese)
   - [Other Languages](#other-languages)
 
 # Dictionary Collection
@@ -176,18 +177,6 @@ A dictionary of Japanese proper names. The linked version is advantageous over t
 Yomichan homepage as it clutters the search page much less when searching, so it's highly
 recommended.
 
-#### Shoui Bilingual Dictionaries Collection
-
-**[Download](https://learnjapanese.moe/resources/#dictionaries)**
-
-There are various bilingual dictionaries in Shoui's bilingual folder. Check the readme in the folder
-for further information.
-
-- 新和英 (Recommended)
-  - Same as the 研究社　新和英大辞典　第５版 with better deconjugation but lacking some additional
-    sentences.
-- 研究社　新和英大辞典　第５版
-
 #### New Saitou Japanese-English Dictionary
 
 Find `[JA-EN] NEW 斎藤和英大辞典` in the [dictionary collection](#dictionary-collection).
@@ -232,23 +221,14 @@ Onomatopoeia converted by Malte from https://onomatoproject.com/.
 
 ### Japanese Monolingual Dictionaries
 
-#### Shoui Monolingual Dictionaries Collection
+Found in the [dictionary collection](#dictionary-collection).
 
-**[Download](https://learnjapanese.moe/resources/#dictionaries)**
-
-There are various monolingual dictionaries in Shoui's monolingual folder, authored by various
-people. Check the readme in the folder for further information, and check the explanation on
-[learnjapanese.moe](https://learnjapanese.moe/monolingual/#recommended-dictionaries) on how to use
-them. Currently contains:
-
-<!-- idk how add comments. Some of the dictionaries from the shoui folder are outdated since they were replaced by the bint ones, which have more entries, CSS, and images.
-I'm not entirely sure how to update this properly, but I think they should probably be marked as recommended. -->
 - 広辞苑 第七版
   - Converted by [Thermosphere and shoui](https://github.com/Thermospore/koj72yomi).
-- 三省堂国語辞典　第七版 (Recommended)
-- 実用日本語表現辞典 (Recommended)
-- 新明解国語辞典 第七版 (Recommended)
-- 明鏡国語辞典 第三版 (Recommended)
+- 三省堂国語辞典　第七版
+- 実用日本語表現辞典
+- 新明解国語辞典 第七版
+- 明鏡国語辞典 第三版
 <details>
 <summary>Converted by Caoimhe.</summary>
 
@@ -256,7 +236,7 @@ I'm not entirely sure how to update this properly, but I think they should proba
 
 </details>
 
-- 旺文社国語辞典 第十二版 (Recommended)
+- 旺文社国語辞典 第十二版
 <details>
 <summary>Converted by Caoimhe.</summary>
 
@@ -264,7 +244,7 @@ I'm not entirely sure how to update this properly, but I think they should proba
 
 </details>
 
-- 三省堂 全訳読解古語辞典 (Recommended for 古語)
+- 三省堂 全訳読解古語辞典
 <details>
 <summary>Converted by Caoimhe.</summary>
 
@@ -272,7 +252,7 @@ I'm not entirely sure how to update this properly, but I think they should proba
 
 </details>
 
-- 旺文社 全訳古語辞典 (Recommended for 古語)
+- 旺文社 全訳古語辞典
 <details>
 <summary>Converted by Caoimhe.</summary>
 
@@ -330,9 +310,10 @@ Dictionaries converted by Caoimhe.
 
 - **[Caoimhe Yomitan Dictionaries folder](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD)**
 
-**例解学習国語辞典 第十一版**
+**例解学習国語辞典 第十二版**
 
-Converted by Caoimhe. Data from Monokakido. Include as well images, 筆順 etc... Great for semi-beginners.
+Converted by Caoimhe. Data from Monokakido. Include as well images, 筆順 etc... Great for
+semi-beginners.
 
 <details>
 
@@ -355,7 +336,7 @@ Converted by Caoimhe. Data from Monokakido. 14711 entries.
 
 </details>
 
-**南山堂医学大辞典 第20版**
+**南山堂医学大辞典 第 20 版**
 
 Converted by Caoimhe. Data from Monokakido. 39087 entries.
 
@@ -379,42 +360,6 @@ Converted by Caoimhe. Data from Monokakido. 10223 entries.
 
 </details>
 
-**研究社 新英和大辞典**
-
-Converted by Caoimhe. Data from Monokakido.
-
-<details>
-
-<summary>Images</summary>
-
-![研究社 新英和大辞典](https://github.com/user-attachments/assets/acc332a0-c5a8-46fe-8756-4f628c6f269a)
-
-</details>
-
-**オックスフォード英語類語辞典**
-
-Converted by Caoimhe. Data from Monokakido.
-
-<details>
-
-<summary>Images</summary>
-
-![オックスフォード英語類語辞典](https://github.com/user-attachments/assets/3ff519bc-d665-43f6-9d57-04200605d865)
-
-</details>
-
-**ライトハウス英和辞典 第7版**
-
-Converted by Caoimhe. Data from Monokakido.
-
-<details>
-
-<summary>Images</summary>
-
-![ライトハウス英和辞典 第7版](https://github.com/user-attachments/assets/8e244573-7dc8-471f-ba68-a7ca5d72f9fc)
-
-</details>
-
 #### Salwynn's dictionaries
 
 Dictionaries converted by Salwynn.
@@ -423,7 +368,9 @@ Dictionaries converted by Salwynn.
 
 **語彙力・熟語の百科事典**
 
-Jukugo and expressions with images from https://proverb-encyclopedia.com/dictionary/, https://proverb-encyclopedia.com/two/, https://proverb-encyclopedia.com/dictionary/, https://sanji-jukugo.com/ and https://yoji-jukugo.com/
+Jukugo and expressions with images from https://proverb-encyclopedia.com/dictionary/,
+https://proverb-encyclopedia.com/two/, https://proverb-encyclopedia.com/dictionary/,
+https://sanji-jukugo.com/ and https://yoji-jukugo.com/
 
 <details>
 
@@ -473,7 +420,8 @@ along with text explanations. Updates daily.
 
 **ネット用語辞典「ネット王子」**
 
-Data from https://netyougo.com/. It focuses on forum culture (like [2ch](https://2ch.sc/)), tweets, popular phrases, and what was trending at the time. (5488 entries)
+Data from https://netyougo.com/. It focuses on forum culture (like [2ch](https://2ch.sc/)), tweets,
+popular phrases, and what was trending at the time. (5488 entries)
 
 <details>
 
@@ -486,7 +434,8 @@ Data from https://netyougo.com/. It focuses on forum culture (like [2ch](https:/
 
 **形容詞・動詞のイラスト素材辞典**
 
-Pictures scraped from Bing Images (exclusive verbs, adj-i with single kanji) (10,167枚 for 3162 entries)
+Pictures scraped from Bing Images (exclusive verbs, adj-i with single kanji) (10,167 枚 for 3162
+entries)
 
 <details>
 
@@ -498,19 +447,22 @@ Pictures scraped from Bing Images (exclusive verbs, adj-i with single kanji) (10
 
 **用例.jp**
 
-10 preview examples of entries from Jmdict that are tagged with [ichi1], [gai1], [news1], [spec1], or [spec2], on [yourei.jp](https://yourei.jp/) excluding anything that doesn’t relate to a common noun. 20932 entries.
+10 preview examples of entries from Jmdict that are tagged with [ichi1], [gai1], [news1], [spec1],
+or [spec2], on [yourei.jp](https://yourei.jp/) excluding anything that doesn’t relate to a common
+noun. 20932 entries.
 
 <details>
 
 <summary>Salwynn's Note/Images</summary>
 
-> I think it offers more context and example sentences than some monolingual dictionaries, which don’t always provide them—or only offer a few of the most ‘representative’ ones. 
+> I think it offers more context and example sentences than some monolingual dictionaries, which
+> don’t always provide them—or only offer a few of the most ‘representative’ ones.
 
 ![image](https://github.com/user-attachments/assets/232cc25e-7acc-4cca-81a8-63dbafa07498)
 
 </details>
 
-**ウェブ検索_Light**
+**ウェブ検索\_Light**
 
 Look up term's pictures faster on web.
 
@@ -551,7 +503,8 @@ Pokemon images from https://zukan.pokemon.co.jp/
 
 **TMW Club**
 
-1,924 images from a few hundred food images collected from the web by TMW's cooking club and flowers from Anki deck.
+1,924 images from a few hundred food images collected from the web by TMW's cooking club and flowers
+from Anki deck.
 
 <details>
 
@@ -1519,9 +1472,10 @@ server. Includes:
 - 譯典通英漢雙向字典
 - 五南國語活用辭典
 
-#### 小学館中日辞典 第3版
+#### 小学館中日辞典 第 3 版
 
-Find `小学館中日辞典 第3版` in the [Caoimhe's dictionaries folder](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD).
+Find `小学館中日辞典 第3版` in the
+[Caoimhe's dictionaries folder](https://drive.proton.me/urls/GH0GV6DMEC#RP55zc2DL8vD).
 
 #### 白水社 中国語辞典 Hakusuisya Chinese-Japanese Dictionary
 
@@ -1844,6 +1798,44 @@ Oxford American Dictionary, Cambridge, Longman, Wordset, and a frequency list fr
 **[Oxford Advanced Learner's Dictionary](https://github.com/MarvNC/yomichan-dictionaries/files/14957647/oald-release-yomitan.zip)**
 
 From Seth for Yomitan. Extract it and follow instructions before use.
+
+### English-Japanese
+
+**研究社 新英和大辞典**
+
+Converted by Caoimhe. Data from Monokakido.
+
+<details>
+
+<summary>Images</summary>
+
+![研究社 新英和大辞典](https://github.com/user-attachments/assets/acc332a0-c5a8-46fe-8756-4f628c6f269a)
+
+</details>
+
+**オックスフォード英語類語辞典**
+
+Converted by Caoimhe. Data from Monokakido.
+
+<details>
+
+<summary>Images</summary>
+
+![オックスフォード英語類語辞典](https://github.com/user-attachments/assets/3ff519bc-d665-43f6-9d57-04200605d865)
+
+</details>
+
+**ライトハウス英和辞典 第 7 版**
+
+Converted by Caoimhe. Data from Monokakido.
+
+<details>
+
+<summary>Images</summary>
+
+![ライトハウス英和辞典 第7版](https://github.com/user-attachments/assets/8e244573-7dc8-471f-ba68-a7ca5d72f9fc)
+
+</details>
 
 ## Other Languages
 
