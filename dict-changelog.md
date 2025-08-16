@@ -28,7 +28,7 @@ These dictionaries are automatically updated daily and will not have new changel
   - [JA-EN Grammar] Bunpro
   - [JA-JA] 字通［普及版］
 - Update
-  - 新明解国語辞典　第八版
+  - [JA-JA] 新明解国語辞典　第八版
   - [JA-JA Nouns] JA Wikipedia Proper Nouns
 
 ## 2025-08-16 (part 1)
