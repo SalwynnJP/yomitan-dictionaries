@@ -13,7 +13,11 @@ const githubAccessToken = getProperty('githubAccessToken');
 
 function downloadAllRepos() {
   for (const repo of repos) {
-    downloadFromGithub(repo);
+    try {
+      downloadFromGithub(repo);
+    } catch (error) {
+      Logger.log(`Error downloading repo ${repo.url}: ${error.message}`);
+    }
   }
 }
 
@@ -39,7 +43,7 @@ const repos = [
     addDate: true,
   },
   {
-    url: 'https://api.github.com/repos/themoeway/jmdict-yomitan/releases/latest',
+    url: 'https://api.github.com/repos/yomidevs/jmdict-yomitan/releases/latest',
     folderId: japaneseFolderId,
     includedNameRegex: /JMnedict/,
     removeNameRegex: /JMnedict/,
@@ -47,7 +51,7 @@ const repos = [
     addDate: true,
   },
   {
-    url: 'https://api.github.com/repos/themoeway/jmdict-yomitan/releases/latest',
+    url: 'https://api.github.com/repos/yomidevs/jmdict-yomitan/releases/latest',
     folderId: japaneseFolderId,
     includedNameRegex: /KANJIDIC_english/,
     removeNameRegex: /KANJIDIC_english/,
@@ -109,8 +113,15 @@ function downloadFromGithub(githubRepo) {
     headers: headers,
   };
 
-  const releaseInfo = UrlFetchApp.fetch(githubRepo.url, options).getContentText();
-  const releaseData = JSON.parse(releaseInfo);
+  /** @type {GithubRelease} */
+  let releaseData;
+  try {
+    const releaseInfo = UrlFetchApp.fetch(githubRepo.url, options).getContentText();
+    releaseData = JSON.parse(releaseInfo);
+  } catch (error) {
+    Logger.log(`Error fetching release data for ${githubRepo.url}: ${error.message}`);
+    return;
+  }
 
   const assets = releaseData.assets;
 
