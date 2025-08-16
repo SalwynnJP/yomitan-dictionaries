@@ -54,7 +54,6 @@ These dictionaries are automatically updated daily and will not have new changel
   - [JA-JA Slang] ネット用語辞典「ネット王子」
   - other/形容詞・動詞のイラスト素材辞典
 - Remove
-  - [JA-JA] 例解学習国語辞典 第十一版 (from Salwynn)
   - other/素材辞典
     <!--updated with Bing Images (combined.zip) but it’s not clean yet, as it’s already too heavy (1.4GB), not very mature. I still need to work on it, add some things manually, compress pics and fix a few issues...-->
   - [JA-JA Kanji] 漢字林 (Replaced by [JA-JA Kanji] TISMKANJI[2025-04-24])
