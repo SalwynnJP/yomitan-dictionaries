@@ -1428,8 +1428,8 @@ Found in the [dictionary collection](#dictionary-collection):
   scraped by Ooodman from Heavenly Path, converted by Michel.
 - `[ZH-EN] DrEye 譯典通英漢雙向字典` - (2020-04-13) Chinese -> English dictionaries from Taiwan,
   includes example sentences and English translations. Converted by Michel.
-- `[LZH-EN] Kroll’s Student’s Dictionary of Classical Medieval Chinese` - converted by members of the Classical East Asian Languages
-  Discord server
+- `[LZH-EN] Kroll’s Student’s Dictionary of Classical Medieval Chinese` - converted by members of
+  the Classical East Asian Languages Discord server
 - `[LZH-EN] Vogelsang's Dictionary` - converted by members of the Classical East Asian Languages
   Discord server
 - `[ZH-EN] oxford-zh-en` - by sethdis
@@ -1733,12 +1733,14 @@ It contains about 19,000 entries.
 ## Korean
 
 **[Lyroxide's Collection](https://github.com/Lyroxide/yomitan-ko-dic/releases)** Contains:
-- IPA   
+
+- IPA
 - Frequency | Korean CC100
 
 - OPENDICT (Monolingual)
 - STDICT (Monolingual) sourced from [표준국어대사전](https://stdict.korean.go.kr/main/main.do)
-- KRDICT (Monolingual/Bilingual) sourced from [한국어기초사전](https://krdict.korean.go.kr/mainAction) in the below languages 
+- KRDICT (Monolingual/Bilingual) sourced from
+  [한국어기초사전](https://krdict.korean.go.kr/mainAction) in the below languages
   - Russian (RU)
   - Arabic (AR)
   - Mongolian (MN)
@@ -1752,21 +1754,29 @@ It contains about 19,000 entries.
   - French (FR)
 
 **[Jarjumarvin Dictionaries](https://github.com/jarjumarvin/yomichan_krdict)** Contains:
+
 - KRDICT from [한국어기초사전](https://krdict.korean.go.kr/mainAction)
 - Hanja Dictionary
-- Conjugation Dictionary 
+- Conjugation Dictionary
 
-**[Pelda's Hanja Dict](https://github.com/peldas/yomitan-dicts?tab=readme-ov-file#korean-english)** Contains:
+**[Pelda's Hanja Dict](https://github.com/peldas/yomitan-dicts?tab=readme-ov-file#korean-english)**
+Contains:
+
 - Hanja Dictionary sourced from [한국어기초사전](https://krdict.korean.go.kr/mainAction)
 
-**[SpazzTL's Supplemental Dictionary](https://github.com/SpazzTL/Supplemental-Korean-Dictionary/releases)** Contains:
-- Supplemental Dictionary 
+**[SpazzTL's Supplemental Dictionary](https://github.com/SpazzTL/Supplemental-Korean-Dictionary/releases)**
+Contains:
 
-***Notes:*** \
-Optimal Bilingual setup is : Lyroxides IPA, CC100, KRDICT, with Jarjumarvin's Hanja Dictionary and SpazzTL's Supplemental Dictionary if you want slightly better coverage when reading Manhwa or Webnovels. \
-Jarjumarvin's Conjugation Dictionary can cause lag on mobile and weaker devices, and does not have perfect coverage. \
-SpazzTL's Supplemental Dictionary is meant to be used with the above although as of ``8/16/25`` it has >500 words.\
-Pelda's dictionary is outdated.
+- Supplemental Dictionary
+
+<!-- prettier-ignore -->
+> [!NOTE]
+> **Optimal Bilingual Setup:** Use Lyroxide's IPA, CC100, KRDICT, with Jarjumarvin's Hanja Dictionary and SpazzTL's Supplemental Dictionary for better coverage when reading Manhwa or Webnovels.
+>
+> **Performance Notes:**
+> - Jarjumarvin's Conjugation Dictionary can cause lag on mobile and weaker devices, and does not have perfect coverage
+> - SpazzTL's Supplemental Dictionary is meant to be used with the above setup, though as of 8/16/25 it has >500 words
+> - Pelda's dictionary is outdated
 
 ## Vietnamese-English
 
