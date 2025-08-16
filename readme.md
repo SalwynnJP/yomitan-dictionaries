@@ -97,7 +97,7 @@ If you're a beginner, I would say the _bare minimum_ to install from the
 - Grammar:
   - [JA Grammar] dojg-consolidated-v1_01
 - Frequency:
-  - [JA Freq] JPDB_2022-05-10T03_27_02.930Z
+  - [JA Freq] JPDB_v2.1_kana_display_only
   - [JA Freq] Freq_CC100
   - [JA Freq] BCCWJ-LUW
 - Monolingual but still useful for coverage to a beginner! If a word shows up in one of these
