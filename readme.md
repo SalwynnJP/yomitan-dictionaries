@@ -91,31 +91,31 @@ If you're a beginner, I would say the _bare minimum_ to install from the
 [dictionary collection](#dictionary-collection) is:
 
 - Bilingual:
-  - [JA-EN] jitendex-yomichan
-  - [JA-EN] NEW 斎藤和英大辞典
-  - [JA-EN] 新和英
+  - **[JA-EN] jitendex-yomichan**
+  - **[JA-EN] NEW 斎藤和英大辞典**
+  - **[JA-EN] 新和英**
 - Grammar:
-  - [JA Grammar] dojg-consolidated-v1_01
+  - **[JA Grammar] dojg-consolidated-v1_01**
 - Frequency:
-  - [JA Freq] JPDB_v2.1_kana_display_only
-  - [JA Freq] Freq_CC100
-  - [JA Freq] BCCWJ-LUW
+  - **[JA Freq] JPDB_v2.1_kana_display_only**
+  - **[JA Freq] Freq_CC100**
+  - **[JA Freq] BCCWJ-LUW**
 - Monolingual but still useful for coverage to a beginner! If a word shows up in one of these
   dictionaries but not an English one, you can just web search/translate to find out more
   information.
-  - [JA-JA] 小学館例解学習国語 第十二版 (best beginner mono dict, includes simple example sentences
-    and furigana)
-  - [JA-JA] 大辞泉 第二版
-  - [JA-JA Encyclopedia] Pixiv
+  - **[JA-JA] 小学館例解学習国語 第十二版** (best beginner mono dict, includes simple example
+    sentences and furigana)
+  - **[JA-JA] 大辞泉 第二版**
+  - **[JA-JA Encyclopedia] Pixiv**
 - Beginner questions (these will answer the questions: what is the difference between these words
   with a similar meaning, or what does it mean when this word uses a different kanji than usual).
-  - [JA-JA Thesaurus] 使い方の分かる 類語例解辞典 [2024-05-02]
-  - [JA-JA] 漢検漢字辞典　第二版
+  - **[JA-JA Thesaurus] 使い方の分かる 類語例解辞典 [2024-05-02]**
+  - **[JA-JA] 漢検漢字辞典　第二版**
 - Kanji information
-  - [Kanji] KANJIDIC_english
-  - [Kanji] JPDB Kanji
+  - **[Kanji] KANJIDIC_english**
+  - **[Kanji] JPDB Kanji**
 - Pitch accent
-  - [Pitch] NHK2016
+  - **[Pitch] NHK2016**
 
 If you're a bit more familiar with the language, I highly recommend following
 [Kuri's Yomichan Setup](https://donkuri.github.io/learn-japanese/setup/#adding-dictionaries) which
