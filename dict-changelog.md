@@ -30,6 +30,7 @@ These dictionaries are automatically updated daily and will not have new changel
 - Update
   - [JA-JA] 新明解国語辞典　第八版
   - [JA-JA Nouns] JA Wikipedia Proper Nouns
+  - [JA Freq] JPDB_v2.2_Frequency_Kana_2024-10-13
 
 ## 2025-08-16 (part 1)
 
