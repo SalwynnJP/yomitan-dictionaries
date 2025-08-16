@@ -1428,7 +1428,7 @@ Found in the [dictionary collection](#dictionary-collection):
   scraped by Ooodman from Heavenly Path, converted by Michel.
 - `[ZH-EN] DrEye 譯典通英漢雙向字典` - (2020-04-13) Chinese -> English dictionaries from Taiwan,
   includes example sentences and English translations. Converted by Michel.
-- `[LZH-EN] Kroll's Classic Chinese` - converted by members of the Classical East Asian Languages
+- `[LZH-EN] Kroll’s Student’s Dictionary of Classical Medieval Chinese` - converted by members of the Classical East Asian Languages
   Discord server
 - `[LZH-EN] Vogelsang's Dictionary` - converted by members of the Classical East Asian Languages
   Discord server

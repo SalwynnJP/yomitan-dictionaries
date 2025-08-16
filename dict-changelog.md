@@ -16,7 +16,7 @@ These dictionaries are automatically updated daily and will not have new changel
 
 - Add
   - [LZH Freq] Classical Chinese Frequency Dictionary
-  - [LZH-EN] Kroll's Classic Chinese
+  - [LZH-EN] Kroll’s Student’s Dictionary of Classical Medieval Chinese
   - [LZH-EN] Vogelsang's Dictionary
   - [LZH-ZH Hanzi] 古汉语常用字字典
   - [ZH-EN] oxford-zh-en
