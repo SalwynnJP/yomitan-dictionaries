@@ -105,7 +105,7 @@ If you're a beginner, I would say the _bare minimum_ to install from the
   information.
   - [JA-JA] 小学館例解学習国語 第十二版 (best beginner mono dict, includes simple example sentences and furigana)
   - [JA-JA] 実用日本語表現辞典
-  - [JA-JA] デジタル大辞泉
+  - [JA-JA] 大辞泉 第二版
   - [JA-JA Encyclopedia] Pixiv
 - Kanji information
   - [Kanji] KANJIDIC_english
