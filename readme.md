@@ -1732,17 +1732,41 @@ It contains about 19,000 entries.
 
 ## Korean
 
-See [Yomichan For Korean](https://github.com/Lyroxide/yomichan-korean) for a fork of Yomichan that
-supports Korean.
+**[Lyroxide's Collection](https://github.com/Lyroxide/yomitan-ko-dic/releases)** Contains:
+- IPA   
+- Frequency | Korean CC100
 
-On that repository the following dictionaries are listed:
+- OPENDICT (Monolingual)
+- STDICT (Monolingual) sourced from [표준국어대사전](https://stdict.korean.go.kr/main/main.do)
+- KRDICT (Monolingual/Bilingual) sourced from [한국어기초사전](https://krdict.korean.go.kr/mainAction) in the below languages 
+  - Russian (RU)
+  - Arabic (AR)
+  - Mongolian (MN)
+  - Vietnamese (VI)
+  - Spanish (ES)
+  - English (EN)
+  - Bahasa Indonesia (ID)
+  - Japanese (JA)
+  - Simplified Chinese (ZH)
+  - Thai (TH)
+  - French (FR)
 
-- KRDICT (KR-EN / KR-JP / Monolingual)
-- Naver (KR-JP)
+**[Jarjumarvin Dictionaries](https://github.com/jarjumarvin/yomichan_krdict)** Contains:
+- KRDICT from [한국어기초사전](https://krdict.korean.go.kr/mainAction)
+- Hanja Dictionary
+- Conjugation Dictionary 
 
-Note that there is an alternative [krdict-yomichan](https://github.com/Samuihasu/krdict-yomichan)
-but this dictionary is no longer necessary due to the conjugation support added in Lyroxide's fork
-of Yomichan.
+**[Pelda's Hanja Dict](https://github.com/peldas/yomitan-dicts?tab=readme-ov-file#korean-english)** Contains:
+- Hanja Dictionary sourced from [한국어기초사전](https://krdict.korean.go.kr/mainAction)
+
+**[SpazzTL's Supplemental Dictionary](https://github.com/SpazzTL/Supplemental-Korean-Dictionary/releases)** Contains:
+- Supplemental Dictionary 
+
+***Notes:*** \
+Optimal Bilingual setup is : Lyroxides IPA, CC100, KRDICT, with Jarjumarvin's Hanja Dictionary and SpazzTL's Supplemental Dictionary if you want slightly better coverage when reading Manhwa or Webnovels. \
+Jarjumarvin's Conjugation Dictionary can cause lag on mobile and weaker devices, and does not have perfect coverage. \
+SpazzTL's Supplemental Dictionary is meant to be used with the above although as of ``8/16/25`` it has >500 words.\
+Pelda's dictionary is outdated.
 
 ## Vietnamese-English
 
