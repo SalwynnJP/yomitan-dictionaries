@@ -1424,18 +1424,12 @@ Found in the [dictionary collection](#dictionary-collection):
   scraped by Ooodman from Heavenly Path, converted by Michel.
 - `[ZH-EN] DrEye 譯典通英漢雙向字典` - (2020-04-13) Chinese -> English dictionaries from Taiwan,
   includes example sentences and English translations. Converted by Michel.
-- `[LZH Freq] Classical Chinese Frequency Dictionary` - converted by members of the Classical East
-  Asian Languages Discord server
 - `[LZH-EN] Kroll's Classic Chinese` - converted by members of the Classical East Asian Languages
   Discord server
 - `[LZH-EN] Vogelsang's Dictionary` - converted by members of the Classical East Asian Languages
   Discord server
-- `[LZH-ZH Hanzi] 古汉语常用字字典`
 - `[ZH-EN] oxford-zh-en` - by sethdis
 - `[ZH-EN] Tuttle Learner's Chinese-English Dictionary`
-- `[ZH-JA] 小学館中日辞典 第 3 版[2025-05-03][pinyin]` - converted by Caoimhe
-- `[ZH-ZH] 國語辭典簡編本` - converted by shadow
-- `[ZH-ZH] 现代汉语词典（第七版）` - converted by Michel
 
 #### CEDICT
 
@@ -1459,6 +1453,8 @@ Series Project at the University of Hawaii. It contains over 196,000 entries. Th
 In the [dictionary collection](#dictionary-collection):
 
 - `[ZH-JA] 中日大辞典 第二版` (converted by an anon)
+- `[ZH-JA] 白水社 中国語辞典`
+- `[ZH-JA] 小学館中日辞典 第 3 版[2025-05-03][pinyin]` - converted by Caoimhe
 
 ### ZH-ZH Term Dictionaries
 
@@ -1471,6 +1467,8 @@ Most of them can be found in the [dictionary collection](#dictionary-collection)
 - `[ZH-ZH] Xiandai Hanyu Cidian 7 现代汉语词典` - (2024-04-20) Converted by Michel
 - `[ZH-ZH] XiandaiGuifan 3 现代汉语规范词典` - (2020-04-17) Converted by Michel
 - `[ZH-ZH] Wunan 五南国语活用辞典` (2024-04-13) Converted by Michel
+- `[ZH-ZH] 國語辭典簡編本` - converted by shadow
+- `[ZH-ZH] 现代汉语词典（第七版）` - converted by Michel
 
 **Simplified Chinese Versions**
 
@@ -1526,6 +1524,11 @@ From [weblio's 白水社 中国語辞典](https://cjjc.weblio.jp/cat/cgkgj), con
 
 ### Chinese Frequency
 
+In the [dictionary collection](#dictionary-collection):
+
+- `[LZH Freq] Classical Chinese Frequency Dictionary` - converted by members of the Classical East
+  Asian Languages Discord server
+
 #### BLCU BCC Corpus
 
 Find them in the [dictionary collection](#dictionary-collection).
@@ -1572,17 +1575,9 @@ Find `[ZH Freq] Sinica` in the [dictionary collection](#dictionary-collection).
 See [Yomichan CSS for Kanji Dictionaries](#yomichan-css-for-kanji-dictionaries) for CSS used to
 reduce the clutter included by default in Yomichan.
 
-<!-- prettier-ignore -->
-> [!NOTE] 
-> The default kanji stroke order font included with Yomichan is made for kanji stroke
-> orders, and as thus will contain incorrect glyphs and stroke orders for Chinese that may be
-> misleading. You can change this by using some CSS:
+In the [dictionary collection](#dictionary-collection):
 
-```css
-.kanji-glyph {
-  font-family: sans-serif; /* or a whatever font you prefer for Chinese */
-}
-```
+- `[LZH-ZH Hanzi] 古汉语常用字字典`
 
 #### Wiktionary Hanzi
 
