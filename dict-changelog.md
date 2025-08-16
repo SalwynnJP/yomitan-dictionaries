@@ -25,6 +25,8 @@ These dictionaries are automatically updated daily and will not have new changel
   - [ZH-ZH] 國語辭典簡編本
   - [ZH-ZH] 现代汉语词典（第七版）
   - [JA-JA Onomatopoeia] 擬音語・擬態語辞典
+  - [JA-EN Grammar] Bunpro
+  - [JA-JA] 字通［普及版］
 - Update
   - 新明解国語辞典　第八版
   - [JA-JA Nouns] JA Wikipedia Proper Nouns

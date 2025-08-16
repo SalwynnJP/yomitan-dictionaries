@@ -884,6 +884,14 @@ put in to creating them to make them parse well, I'd recommend you install all o
 Salwynn added images to this dictionary from the original site. Can be found in
 [Salwynn's collection](#salwynns-dictionaries) or the [main collection](#dictionary-collection).
 
+#### Bunpro Grammar
+
+[Project Homepage](https://github.com/J-O-S-H-L/grammar_dict)
+
+Bunpro JA-EN grammar dictionary.
+
+Found in the [dictionary collection](#dictionary-collection).
+
 ### Term Frequency
 
 #### Kuuube's Frequency Dictionaries
