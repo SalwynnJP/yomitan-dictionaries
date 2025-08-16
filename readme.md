@@ -104,7 +104,6 @@ If you're a beginner, I would say the _bare minimum_ to install from the
   dictionaries but not an English one, you can just web search/translate to find out more
   information.
   - [JA-JA] 小学館例解学習国語 第十二版 (best beginner mono dict, includes simple example sentences and furigana)
-  - [JA-JA] 実用日本語表現辞典
   - [JA-JA] 大辞泉 第二版
   - [JA-JA Encyclopedia] Pixiv
 - Kanji information
