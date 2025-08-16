@@ -53,7 +53,7 @@ These dictionaries are automatically updated daily and will not have new changel
 - Update
   - [JA-JA] 新選国語辞典　第十版 (better version)
 
-## 2024-05-11 (part 2)
+## 2024-07-11 (part 2)
 
 - Add
   - [JA-EN Onomatopoeia] Onomatoproject
