@@ -110,7 +110,7 @@ If you're a beginner, I would say the _bare minimum_ to install from the
   - [Kanji] KANJIDIC_english
   - [Kanji] JPDB Kanji
 - Pitch accent
-  - [Pitch] 大辞泉
+  - [Pitch] NHK2016
 
 If you're a bit more familiar with the language, I highly recommend following
 [Kuri's Yomichan Setup](https://donkuri.github.io/learn-japanese/setup/#adding-dictionaries) which
