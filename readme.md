@@ -1428,8 +1428,8 @@ Found in the [dictionary collection](#dictionary-collection):
   scraped by Ooodman from Heavenly Path, converted by Michel.
 - `[ZH-EN] DrEye 譯典通英漢雙向字典` - (2020-04-13) Chinese -> English dictionaries from Taiwan,
   includes example sentences and English translations. Converted by Michel.
-- `[LZH-EN] Kroll’s Student’s Dictionary of Classical Medieval Chinese` - converted by members of the Classical East Asian Languages
-  Discord server
+- `[LZH-EN] Kroll’s Student’s Dictionary of Classical Medieval Chinese` - converted by members of
+  the Classical East Asian Languages Discord server
 - `[LZH-EN] Vogelsang's Dictionary` - converted by members of the Classical East Asian Languages
   Discord server
 - `[ZH-EN] oxford-zh-en` - by sethdis
@@ -1705,7 +1705,9 @@ Converted by Julian from the [和独大辞典](https://www.wadokudaijiten.de/).
   Nomenklatur) · Geowissenschaften · Linguistik · Mathematik · Medizin · Musik · Physik · Recht ·
   Sport · Technik · Wirtschaft und Finanzen
 
-> ![NOTE] Relatively rough conversion, more or less the entries as you'd find them on the website
+<!-- prettier-ignore -->
+> [!NOTE]
+> Relatively rough conversion, more or less the entries as you'd find them on the website
 > ^^ - might get updated in the future (converting the "tags" to actual tags etc.) . It ups the
 > coverage that you'd get from only using Jmdict German and can be a great tool to use alongside
 > other dicts - may it be as a source for example sentences etc.
