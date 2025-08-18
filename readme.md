@@ -89,7 +89,9 @@ know!
 
 <!-- prettier-ignore -->
 > [!TIP]
-> The Japanese Dictionaries Starter Pack consisting of these dictionaries in order for easy download and import is now available in the [Dictionaries Folder](https://drive.google.com/drive/folders/1LXMIOoaWASIntlx1w08njNU005lS5lez).
+> The Japanese Dictionaries Starter Pack consisting of these dictionaries in order 
+> for easy download and import is now available in the 
+> [Dictionaries Folder](https://drive.google.com/drive/folders/1LXMIOoaWASIntlx1w08njNU005lS5lez).
 
 If you're a beginner, I would say the _bare minimum_ to install from the
 [dictionary collection](#dictionary-collection) is:
