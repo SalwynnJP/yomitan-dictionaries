@@ -113,6 +113,7 @@ If you're a beginner, I would say the _bare minimum_ to install from the
   - **[JA-JA] 小学館例解学習国語 第十二版** (best beginner mono dict, includes simple example
     sentences and furigana)
   - **[JA-JA] 大辞泉 第二版**
+  - **[JA-JA] 実用日本語表現辞典**
   - **[JA-JA Encyclopedia] PixivLight**
 - Beginner questions (these will answer the questions: what is the difference between these words
   with a similar meaning, or what does it mean when this word uses a different kanji than usual).
