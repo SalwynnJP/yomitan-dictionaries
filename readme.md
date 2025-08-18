@@ -87,12 +87,18 @@ know!
 
 ## What Dictionaries Should I Install?
 
+<!-- prettier-ignore -->
+> [!TIP]
+> NEW! The Japanese Dictionaries Starter Pack consisting of only these dictionaries for easy download is now available in the [Dictionaries Folder](https://drive.google.com/drive/folders/1LXMIOoaWASIntlx1w08njNU005lS5lez).
+
 If you're a beginner, I would say the _bare minimum_ to install from the
 [dictionary collection](#dictionary-collection) is:
 
 - Bilingual:
   - **[JA-EN] jitendex-yomichan**
   - **[JA-EN] 新和英**
+- Names:
+  - **[JA-JA Names] JMnedict**
 - Grammar:
   - **[JA Grammar] dojg-consolidated-v1_01**
 - Frequency:
@@ -105,7 +111,7 @@ If you're a beginner, I would say the _bare minimum_ to install from the
   - **[JA-JA] 小学館例解学習国語 第十二版** (best beginner mono dict, includes simple example
     sentences and furigana)
   - **[JA-JA] 大辞泉 第二版**
-  - **[JA-JA Encyclopedia] Pixiv**
+  - **[JA-JA Encyclopedia] PixivLight**
 - Beginner questions (these will answer the questions: what is the difference between these words
   with a similar meaning, or what does it mean when this word uses a different kanji than usual).
   - **[JA-JA Thesaurus] 使い方の分かる 類語例解辞典 [2024-05-02]**
