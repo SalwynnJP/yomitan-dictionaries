@@ -10,7 +10,7 @@ created to host the dictionaries I created, but I have since adapted this reposi
 hub for other dictionaries as well. If you have a dictionary you would like to share, please open an
 issue or pull request.
 
-**[Please check here for information on what dictionaries to install.](#dictionary-collection)**
+### **[Please check here for information on what dictionaries to install.](#dictionary-collection)** <!-- omit in toc -->
 
 My related dictionary resources:
 
