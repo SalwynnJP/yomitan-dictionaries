@@ -92,7 +92,6 @@ If you're a beginner, I would say the _bare minimum_ to install from the
 
 - Bilingual:
   - **[JA-EN] jitendex-yomichan**
-  - **[JA-EN] NEW 斎藤和英大辞典**
   - **[JA-EN] 新和英**
 - Grammar:
   - **[JA Grammar] dojg-consolidated-v1_01**
