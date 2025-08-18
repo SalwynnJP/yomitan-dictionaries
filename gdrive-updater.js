@@ -119,6 +119,7 @@ const STARTER_DICTIONARIES_ORDER = [
   // Mono
   /\[JA-JA\] 小学館例解学習国語 第十二版.*/,
   /\[JA-JA\] 大辞泉 第二版.*/,
+  /\[JA-JA\] 実用日本語表現辞典.*/,
   /\[JA-JA Encyclopedia\] PixivLight.*/,
   // Kanji
   /\[Kanji\] KANJIDIC_english.*/,
