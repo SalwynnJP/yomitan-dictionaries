@@ -6,19 +6,21 @@ const getProperty = (propertyName) => {
   return propertyValue;
 };
 
-const japaneseFolderId = getProperty('japaneseFolderId');
-const mandarinFolderId = getProperty('mandarinFolderId');
-const cantoneseFolderId = getProperty('cantoneseFolderId');
+const JAPANESE_FOLDER_ID = getProperty('japaneseFolderId');
+const MANDARIN_FOLDER_ID = getProperty('mandarinFolderId');
+const CANTONESE_FOLDER_ID = getProperty('cantoneseFolderId');
+const JA_STARTER_PACK = getProperty('jaStarterPack');
 const githubAccessToken = getProperty('githubAccessToken');
 
 function downloadAllRepos() {
-  for (const repo of repos) {
+  for (const repo of REPOS_TO_UPDATE) {
     try {
       downloadFromGithub(repo);
     } catch (error) {
       Logger.log(`Error downloading repo ${repo.url}: ${error.message}`);
     }
   }
+  updateStarterDictionariesPack();
 }
 
 /**
@@ -33,10 +35,10 @@ function downloadAllRepos() {
 /**
  * @type {GithubRepoDictionary[]}
  */
-const repos = [
+const REPOS_TO_UPDATE = [
   {
     url: 'https://api.github.com/repos/stephenmk/stephenmk.github.io/releases/latest',
-    folderId: japaneseFolderId,
+    folderId: JAPANESE_FOLDER_ID,
     includedNameRegex: /yomi/,
     removeNameRegex: /jitendex/,
     fileNamePrefix: '[JA-EN] ',
@@ -44,7 +46,7 @@ const repos = [
   },
   {
     url: 'https://api.github.com/repos/yomidevs/jmdict-yomitan/releases/latest',
-    folderId: japaneseFolderId,
+    folderId: JAPANESE_FOLDER_ID,
     includedNameRegex: /JMnedict/,
     removeNameRegex: /JMnedict/,
     fileNamePrefix: '[JA-JA Names] ',
@@ -52,7 +54,7 @@ const repos = [
   },
   {
     url: 'https://api.github.com/repos/yomidevs/jmdict-yomitan/releases/latest',
-    folderId: japaneseFolderId,
+    folderId: JAPANESE_FOLDER_ID,
     includedNameRegex: /KANJIDIC_english/,
     removeNameRegex: /KANJIDIC_english/,
     fileNamePrefix: '[Kanji] ',
@@ -60,7 +62,7 @@ const repos = [
   },
   {
     url: 'https://api.github.com/repos/MarvNC/cc-cedict-yomitan/releases/latest',
-    folderId: mandarinFolderId,
+    folderId: MANDARIN_FOLDER_ID,
     includedNameRegex: /CC\-CEDICT(?!\.Hanzi)/,
     removeNameRegex: /CC\-CEDICT(?!\.Hanzi)/,
     fileNamePrefix: '[ZH-EN] ',
@@ -68,7 +70,7 @@ const repos = [
   },
   {
     url: 'https://api.github.com/repos/MarvNC/cc-cedict-yomitan/releases/latest',
-    folderId: mandarinFolderId,
+    folderId: MANDARIN_FOLDER_ID,
     includedNameRegex: /CC\-CEDICT\.Hanzi/,
     removeNameRegex: /CC\-CEDICT\.Hanzi/,
     fileNamePrefix: '[Hanzi] ',
@@ -76,7 +78,7 @@ const repos = [
   },
   {
     url: 'https://api.github.com/repos/MarvNC/wordshk-yomitan/releases/latest',
-    folderId: cantoneseFolderId,
+    folderId: CANTONESE_FOLDER_ID,
     includedNameRegex: /Words\.hk\.[\d-]+.zip$/,
     removeNameRegex: /Words\.hk\.[\d-]+.zip$/,
     fileNamePrefix: '[YUE-EN & YUE] ',
@@ -84,7 +86,7 @@ const repos = [
   },
   {
     url: 'https://api.github.com/repos/MarvNC/wordshk-yomitan/releases/latest',
-    folderId: cantoneseFolderId,
+    folderId: CANTONESE_FOLDER_ID,
     includedNameRegex: /Words\.hk\.Honzi.[\d-]+.zip$/,
     removeNameRegex: /Words\.hk\.Honzi.[\d-]+.zip$/,
     fileNamePrefix: '[Honzi] ',
@@ -92,13 +94,149 @@ const repos = [
   },
   {
     url: 'https://api.github.com/repos/MarvNC/pixiv-yomitan/releases/latest',
-    folderId: japaneseFolderId,
+    folderId: JAPANESE_FOLDER_ID,
     includedNameRegex: /^PixivLight_[\d\-]+\.zip$/,
     removeNameRegex: /^PixivLight_[\d\-]+\.zip$/,
     fileNamePrefix: '[JA-JA Encyclopedia] ',
     addDate: false,
   },
 ];
+
+/**
+ * @type {RegExp[]}
+ */
+const STARTER_DICTIONARIES_ORDER = [
+  /\[JA-EN\] jitendex-yomitan.*/,
+  /\[JA-EN\] 新和英.*/,
+  /\[JA-JA Names\] JMnedict.*/,
+  /\[JA-EN Grammar\] dojg-consolidated-v1_01.*/,
+  /\[JA Freq\] JPDB_v2.*_Frequency_Kana.*/,
+  /\[JA Freq\] Freq_CC100.*/,
+  /\[JA Freq\] BCCWJ.*/,
+  /\[JA-JA\] 小学館例解学習国語 第十二版.*/,
+  /\[JA-JA\] 大辞泉 第二版.*/,
+  /\[JA-JA Encyclopedia\] PixivLight.*/,
+  /\[JA-JA Thesaurus\] 使い方の分かる 類語例解辞典.*/,
+  /\[JA-JA\] 漢検漢字辞典　第二版.*/,
+  /\[Kanji\] KANJIDIC_english.*/,
+  /\[Kanji\] JPDB Kanji.*/,
+  /\[Pitch\] NHK2016.*/,
+];
+
+/**
+ * @type {RegExp[]}
+ */
+const UPDATING_DICTIONARIES_TO_COPY_JA_TO_STARTER_PACK = [
+  /\[JA-EN\] jitendex-yomitan.*/,
+  /\[JA-JA Encyclopedia\] PixivLight.*/,
+  /\[Kanji\] KANJIDIC_english.*/,
+];
+
+/**
+ * Update Starter Dictionaries Pack
+ * - This runs after the main downloadFromGithub script runs
+ * - We first copy over all the dictionaries in `STARTER_DICTIONARIES_ORDER`
+ * that aren't already in the starter pack folder and don't match the regex.
+ * - Then we go over the updating dictionaries list and delete and re-add the latest version
+ * - Then we go again through `STARTER_DICTIONARIES_ORDER` and prepend the files with
+ * a two-digit index
+ */
+function updateStarterDictionariesPack() {
+  const JapaneseFolder = DriveApp.getFolderById(JAPANESE_FOLDER_ID);
+  const JapaneseStarterPack = DriveApp.getFolderById(JA_STARTER_PACK);
+
+  // Get all files in both folders as arrays for easier manipulation
+  const japaneseFiles = [];
+  const japaneseFilesIterator = JapaneseFolder.getFiles();
+  while (japaneseFilesIterator.hasNext()) {
+    japaneseFiles.push(japaneseFilesIterator.next());
+  }
+
+  const starterPackFiles = [];
+  const starterPackFilesIterator = JapaneseStarterPack.getFiles();
+  while (starterPackFilesIterator.hasNext()) {
+    starterPackFiles.push(starterPackFilesIterator.next());
+  }
+
+  // Step 1: Copy dictionaries from STARTER_DICTIONARIES_ORDER that aren't already in starter pack
+  for (const dictionaryRegex of STARTER_DICTIONARIES_ORDER) {
+    // Find matching file in Japanese folder
+    const matchingJapaneseFile = japaneseFiles.find((file) =>
+      file.getName().match(dictionaryRegex)
+    );
+
+    if (matchingJapaneseFile) {
+      // Check if it's already in starter pack (ignoring numbered prefixes)
+      const fileName = matchingJapaneseFile.getName();
+      const isAlreadyInStarterPack = starterPackFiles.some((starterFile) => {
+        const starterFileName = starterFile.getName();
+        // Remove numbered prefix (e.g., "01 " or "02 ") to compare base names
+        const baseStarterName = starterFileName.replace(/^\d{2}\s/, '');
+        return baseStarterName === fileName;
+      });
+
+      if (!isAlreadyInStarterPack) {
+        // Copy file to starter pack
+        const copiedFile = matchingJapaneseFile.makeCopy(JapaneseStarterPack);
+        starterPackFiles.push(copiedFile);
+        Logger.log(`Copied ${fileName} to starter pack`);
+      }
+    }
+  }
+
+  // Step 2: Handle updating dictionaries - remove old versions and copy new ones
+  for (const updatingDictionaryRegex of UPDATING_DICTIONARIES_TO_COPY_JA_TO_STARTER_PACK) {
+    // Remove existing versions from starter pack
+    removeFilesWithRegexBypassTrash(JA_STARTER_PACK, updatingDictionaryRegex);
+
+    // Remove matching files from our array too
+    const filesToRemove = starterPackFiles.filter((file) => {
+      const baseFileName = file.getName().replace(/^\d{2}\s/, '');
+      return baseFileName.match(updatingDictionaryRegex);
+    });
+
+    filesToRemove.forEach((fileToRemove) => {
+      const index = starterPackFiles.indexOf(fileToRemove);
+      if (index > -1) {
+        starterPackFiles.splice(index, 1);
+      }
+    });
+
+    // Find and copy the latest version from Japanese folder
+    const latestFile = japaneseFiles.find((file) => file.getName().match(updatingDictionaryRegex));
+
+    if (latestFile) {
+      const copiedFile = latestFile.makeCopy(JapaneseStarterPack);
+      starterPackFiles.push(copiedFile);
+      Logger.log(`Added latest version: ${latestFile.getName()}`);
+    }
+  }
+
+  // Step 3: Rename all files with two-digit prefixes based on STARTER_DICTIONARIES_ORDER
+  for (let i = 0; i < STARTER_DICTIONARIES_ORDER.length; i++) {
+    const dictionaryRegex = STARTER_DICTIONARIES_ORDER[i];
+    const prefix = String(i + 1).padStart(2, '0');
+
+    // Find matching file in starter pack
+    const matchingFile = starterPackFiles.find((file) => {
+      const baseFileName = file.getName().replace(/^\d{2}\s/, '');
+      return baseFileName.match(dictionaryRegex);
+    });
+
+    if (matchingFile) {
+      const currentName = matchingFile.getName();
+      const baseFileName = currentName.replace(/^\d{2}\s/, '');
+      const newName = `${prefix} ${baseFileName}`;
+
+      if (currentName !== newName) {
+        matchingFile.setName(newName);
+        Logger.log(`Renamed ${currentName} to ${newName}`);
+      }
+    }
+  }
+
+  Logger.log('Starter dictionaries pack update completed');
+}
 
 // Function to download a release repo dictionary from GitHub and save it to Google Drive
 /**
@@ -137,7 +275,7 @@ function downloadFromGithub(githubRepo) {
     const fileBlob = response.getBlob();
 
     // Remove existing files for this dictionary
-    removeFilesWithSubstring(githubRepo.folderId, githubRepo.removeNameRegex);
+    removeFilesWithRegexBypassTrash(githubRepo.folderId, githubRepo.removeNameRegex);
 
     const folder = DriveApp.getFolderById(githubRepo.folderId);
     const createdFile = folder.createFile(fileBlob);
@@ -167,7 +305,7 @@ function downloadFromGithub(githubRepo) {
  * @param {string} folderId
  * @param {RegExp} regexToRemove
  */
-function removeFilesWithSubstring(folderId, regexToRemove) {
+function removeFilesWithRegexBypassTrash(folderId, regexToRemove) {
   const folder = DriveApp.getFolderById(folderId);
   const files = folder.getFiles();
 
