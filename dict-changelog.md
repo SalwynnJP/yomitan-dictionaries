@@ -12,6 +12,19 @@ These dictionaries are automatically updated daily and will not have new changel
 - Words.HK
 - Words.hk Honzi
 
+## 2025-08-18
+
+- Update
+  - [JA-JA] 大辞林　第四版 (Reduced filesize)
+  - [JA-JA] 明鏡国語辞典 第三版[2025-08-18]
+  - [JA-JA] 小学館例解学習国語 第十二版[2025-08-18]
+  - [JA-JA Kanji] 旺文社漢字典 第四版[2025-08-18]
+- Remove
+  - [JA-JA] 明鏡国語辞典　第二版_2023_07_22
+  - [JA-JA] 明鏡国語辞典 第三版[2025-08-09]
+  - [JA-JA] 小学館例解学習国語 第十二版[2025-08-09]
+  - [JA-JA Kanji] 旺文社漢字典 第四版[2025-07-19]
+
 ## 2025-08-16 (part 2)
 
 - Add
