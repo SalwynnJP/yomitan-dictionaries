@@ -106,20 +106,28 @@ const REPOS_TO_UPDATE = [
  * @type {RegExp[]}
  */
 const STARTER_DICTIONARIES_ORDER = [
+  // EN
   /\[JA-EN\] jitendex-yomitan.*/,
   /\[JA-EN\] 新和英.*/,
+  // Names
   /\[JA-JA Names\] JMnedict.*/,
+  // Grammar
   /\[JA-EN Grammar\] dojg-consolidated-v1_01.*/,
-  /\[JA Freq\] JPDB_v2.*_Frequency_Kana.*/,
-  /\[JA Freq\] Freq_CC100.*/,
-  /\[JA Freq\] BCCWJ.*/,
+  // Differentiation
+  /\[JA-JA Thesaurus\] 使い方の分かる 類語例解辞典.*/,
+  /\[JA-JA\] 漢検漢字辞典　第二版.*/,
+  // Mono
   /\[JA-JA\] 小学館例解学習国語 第十二版.*/,
   /\[JA-JA\] 大辞泉 第二版.*/,
   /\[JA-JA Encyclopedia\] PixivLight.*/,
-  /\[JA-JA Thesaurus\] 使い方の分かる 類語例解辞典.*/,
-  /\[JA-JA\] 漢検漢字辞典　第二版.*/,
+  // Kanji
   /\[Kanji\] KANJIDIC_english.*/,
   /\[Kanji\] JPDB Kanji.*/,
+  // Freq
+  /\[JA Freq\] JPDB_v2.*_Frequency_Kana.*/,
+  /\[JA Freq\] Freq_CC100.*/,
+  /\[JA Freq\] BCCWJ.*/,
+  // Pitch
   /\[Pitch\] NHK2016.*/,
 ];
 
