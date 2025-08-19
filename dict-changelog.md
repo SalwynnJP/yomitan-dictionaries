@@ -20,7 +20,7 @@ These dictionaries are automatically updated daily and will not have new changel
   - [JA-JA] 小学館例解学習国語 第十二版[2025-08-18]
   - [JA-JA Kanji] 旺文社漢字典 第四版[2025-08-18]
 - Remove
-  - [JA-JA] 明鏡国語辞典　第二版_2023_07_22
+  - [JA-JA] 明鏡国語辞典　第二版\_2023_07_22
   - [JA-JA] 明鏡国語辞典 第三版[2025-08-09]
   - [JA-JA] 小学館例解学習国語 第十二版[2025-08-09]
   - [JA-JA Kanji] 旺文社漢字典 第四版[2025-07-19]
@@ -40,7 +40,7 @@ These dictionaries are automatically updated daily and will not have new changel
   - [JA-JA Onomatopoeia] 擬音語・擬態語辞典
   - [JA-EN Grammar] Bunpro
   - [JA-JA] 字通［普及版］
-  - [Pitch] NHK日本語発音アクセント新辞典
+  - [Pitch] NHK 日本語発音アクセント新辞典
 - Update
   - [JA-JA] 新明解国語辞典　第八版
   - [JA-JA Nouns] JA Wikipedia Proper Nouns

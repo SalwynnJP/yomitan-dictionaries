@@ -125,10 +125,10 @@ If you're a beginner, I would say the _bare minimum_ to install from the
 - Pitch accent
   - **[Pitch] NHK2016**
 
-If you're a bit more familiar with the language, I highly recommend following
-[Kuri's Yomichan Setup](https://donkuri.github.io/learn-japanese/setup/#adding-dictionaries) which
-goes in depth with the technical setup process and recommends you install around thirty
-dictionaries, with a lot of thought having been put into the selections.
+Also see:
+
+- [Kuri's Yomitan Setup](https://donkuri.github.io/learn-japanese/setup/#adding-dictionaries)
+- [Shoui's Yomitan Setup](https://learnjapanese.moe/yomichan/)
 
 My personal recommendation is to install everything. With every dictionary installed, you know that
 any (actual) word you come across will almost certainly be in your Yomitan installation, and that
