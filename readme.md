@@ -133,10 +133,10 @@ Also see:
 My personal recommendation is to install everything. With every dictionary installed, you know that
 any (actual) word you come across will almost certainly be in your Yomitan installation, and that
 you will have a good selection of definitions for almost any word. Most dictionaries on their own do
-not that high of a breadth of coverage so having less dictionaries installed means you may run into
-confusion when you fail to look up a word. Some of the dictionaries cover quite different subject
-areas as well - hover a cultural reference and you will be more likely to find it in the Pixiv
-dictionary than any other.
+not have that high of a breadth of coverage so having less dictionaries installed means you may run
+into confusion when you fail to look up a word. Some of the dictionaries cover quite different
+subject areas as well - hover a cultural reference and you will be more likely to find it in the
+Pixiv dictionary than any other.
 
 ## Dictionaries Sort Script
 
