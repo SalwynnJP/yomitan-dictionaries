@@ -97,7 +97,7 @@ If you're a beginner, I would say the _bare minimum_ to install from the
 [dictionary collection](#dictionary-collection) is:
 
 - Bilingual:
-  - **[JA-EN] jitendex-yomichan**
+  - **[JA-EN] jitendex-yomitan**
   - **[JA-EN] 新和英**
 - Names:
   - **[JA-JA Names] JMnedict**
