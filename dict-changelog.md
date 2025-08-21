@@ -17,7 +17,7 @@ These dictionaries are automatically updated daily and will not have new changel
 
 - Add
   - [JA Freq] jiten_freq_global (auto updating dictionary)
-  - 
+  - [JA-EN] Living_Japanese_Slang_Dictionary_Scripting_Japan
 
 ## 2025-08-18
 
