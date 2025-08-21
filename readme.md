@@ -878,6 +878,25 @@ from the dictionary collection.
 
 Proper nouns from JA Wikipedia.
 
+#### Living Japanese Slang
+
+**[Living_Japanese_Slang_Dictionary_Scripting_Japan.zip](https://github.com/user-attachments/files/21926553/Living_Japanese_Slang_Dictionary_Scripting_Japan.zip)**
+
+Created by
+[scriptingjapan](https://wesleycrobertson.wordpress.com/2022/06/19/living-japanese-slang-dictionary/)
+and converted by Selxo, just some slangs explained in English. Relatively small dictionary with 636
+entries.
+
+<details>
+
+<summary>Images</summary>
+
+<img width="768" height="274" alt="image" src="https://github.com/user-attachments/assets/d9279ad1-9d14-449d-bd29-411f89f5073b" />
+<img width="841" height="326" alt="image" src="https://github.com/user-attachments/assets/56d197bc-9db8-4615-889a-aa7aefc5603f" />
+<img width="807" height="380" alt="image" src="https://github.com/user-attachments/assets/68d099a3-9b3b-468d-b6e4-92b4a18a8d03" />
+
+</details>
+
 ### Grammar Dictionaries
 
 #### aiko-tanaka Grammar Dictionaries
@@ -1251,7 +1270,12 @@ notably:
 - The meaning of the kanji (in Japanese)
 - The various 異体字 of the kanji
 
-![](!images/chrome_%E8%AA%AD_-_%E3%82%A6%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%83%BC%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88_-_httpsja.wiktionary.org_-_Go_2022-09-09_20-13-53.png)
+<details>
+<summary>Images</summary>
+
+![wiktionary kanji example](!images/chrome_%E8%AA%AD_-_%E3%82%A6%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%83%BC%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88_-_httpsja.wiktionary.org_-_Go_2022-09-09_20-13-53.png)
+
+</details>
 
 #### jpdb Kanji
 
@@ -1265,7 +1289,13 @@ Kanji information of around 6,000 characters from https://jpdb.io:
 - 漢字検定 level
 - 旧字体/新字体/拡張新字体 character form
 
+<details>
+
+<summary>Images</summary>
+
 ![](!images/chrome_%E4%B9%B1_-_Yomichan_Search_-_Google_Chrome_2022-08-10_19-29-01.png)
+
+</details>
 
 #### TheKanjiMap
 
@@ -1280,7 +1310,14 @@ Information from [TheKanjiMap](https://thekanjimap.com/):
 - Reading hints based on possible phonetic components (computed based on information from KANJIDIC
   and the decomposition here)
 
-![高](!images/chrome_%E9%AB%98_-_Yomichan_Search_-_Google_Chrome_2023-02-03_19-46-15.png)![更](!images/chrome_%E6%9B%B4_-_Yomichan_Search_-_Google_Chrome_2023-02-03_19-51-17.png)
+<details>
+
+<summary>Images</summary>
+
+![高](!images/chrome_%E9%AB%98_-_Yomichan_Search_-_Google_Chrome_2023-02-03_19-46-15.png)
+![更](!images/chrome_%E6%9B%B4_-_Yomichan_Search_-_Google_Chrome_2023-02-03_19-51-17.png)
+
+</details>
 
 #### Kanji Jitenon Online
 
@@ -1293,6 +1330,34 @@ kanji dictionary. It was converted into a Yomichan kanji dictionary by eurusdagr
 <summary>(Click to expand) Example image</summary>
 
 ![image](https://github.com/MarvNC/yomitan-dictionaries/assets/17340496/18aea472-eb49-42c3-bf73-1532f8d4ae53)
+
+</details>
+
+#### ゴブリンじゃない人の JPDB 漢字辞典
+
+**[ゴブリンじゃない人の JPDB 漢字辞典.zip](https://github.com/user-attachments/files/21926559/JPDB.zip)**
+
+A kanji dictionary for beginners, with similar content to the JPDB Kanji dictionary but also with
+definitions for terms.
+
+<details>
+
+<summary>(Click to expand) Creator description and images</summary>
+
+> It always bugged me that there was no good kanji dictionary available for yomichan/yomitan. I even
+> tried creating one myself long time ago, just to realize that the "kanji dictionary scheme" for
+> yomichan/yomitan prevents anyone from possibly creating a good kanji dictionary (i tried all of
+> them). Today I had the idea to just create kanji dictionary with the "term dictionary scheme" (or
+> "as a regular dictionary") with the data I wanted to see in a kanji dictionary (which is mostly
+> based on JPDB).
+>
+> The design choice of creating a "kanji dictionary" as a "regular dictionary" only means that
+> instead of being able to open the kanji dictionary by clicking any kanji in any regular dictionary
+> entry, my kanji dictionary simple shows up as a regular search result. You can also collapse it if
+> it takes away too much vertical space.
+
+<img width="1180" height="626" alt="image" src="https://github.com/user-attachments/assets/cea8b37c-d095-4d8b-814c-2bb9c21635a4" />
+<img width="1183" height="783" alt="image" src="https://github.com/user-attachments/assets/9e0a1280-dff4-4637-be87-4e7136e18b0a" />
 
 </details>
 
