@@ -11,6 +11,13 @@ These dictionaries are automatically updated daily and will not have new changel
 - CC-CEDICT Canto
 - Words.HK
 - Words.hk Honzi
+- jiten
+
+## 2025-08-21
+
+- Add
+  - [JA Freq] jiten_freq_global (auto updating dictionary)
+  - 
 
 ## 2025-08-18
 

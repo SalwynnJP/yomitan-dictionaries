@@ -89,9 +89,9 @@ know!
 
 <!-- prettier-ignore -->
 > [!TIP]
-> The Japanese Dictionaries Starter Pack consisting of these dictionaries in order 
+> **The Japanese Dictionaries Starter Pack consisting of these dictionaries in order 
 > for easy download and import is now available in the 
-> [Dictionaries Folder](https://drive.google.com/drive/folders/1LXMIOoaWASIntlx1w08njNU005lS5lez).
+> [Dictionaries Folder](https://drive.google.com/drive/folders/1LXMIOoaWASIntlx1w08njNU005lS5lez).**
 
 If you're a beginner, I would say the _bare minimum_ to install from the
 [dictionary collection](#dictionary-collection) is:
@@ -105,6 +105,7 @@ If you're a beginner, I would say the _bare minimum_ to install from the
   - **[JA Grammar] dojg-consolidated-v1_01**
 - Frequency:
   - **[JA Freq] JPDB_v2.1_kana_display_only**
+  - **[JA Freq] jiten_freq_global**
   - **[JA Freq] Freq_CC100**
   - **[JA Freq] BCCWJ-LUW**
 - Monolingual but still useful for coverage to a beginner! If a word shows up in one of these
@@ -919,6 +920,14 @@ Includes:
 - **BCCWJ SUW LUW Combined** - so you can just install this one
 - **H Frequency** - Voice work scripts, small corpus
 - **JMdict Frequency** - From JMdict's news frequency tags, not recommended
+
+#### Jiten
+
+**[Homepage](https://jiten.moe/other)**
+
+Frequency dictionaries based on the corpus available at [jiten.moe](https://jiten.moe/), created by
+the site owner. Jiten.moe is a site providing stats on lots of Japanese media, providing anki decks
+and vocab lists.
 
 #### jpdb Frequency Dictionary
 
