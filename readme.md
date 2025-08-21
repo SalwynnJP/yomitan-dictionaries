@@ -1380,7 +1380,12 @@ A kanji dictionary made from the kanji variant information in
 - 別字
 - 本字
 
+<details>
+<summary>Images</summary>
+
 ![](!images/chrome_%E9%AB%94_-_Yomichan_Search_-_Google_Chrome_2022-08-19_20-22-19.png)
+
+</details>
 
 #### jitai
 
@@ -1390,7 +1395,13 @@ A kanji dictionary made using the data from
 [shinjigen-glyph](https://github.com/metasta/shinjigen-glyph). This allows you to see information
 about 旧字体, 新字体, 拡張新字体, and 標準字体 variants from the kanji page in Yomichan.
 
+<details>
+
+<summary>Images</summary>
+
 ![](!images/chrome_%E4%B9%B1_-_Yomichan_Search_-_Google_Chrome_2022-08-10_19-28-54.png)
+
+</details>
 
 ### Kanji Frequency
 
