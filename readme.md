@@ -1676,6 +1676,21 @@ reduce the clutter included by default in Yomichan.
 In the [dictionary collection](#dictionary-collection):
 
 - `[LZH-ZH Hanzi] 古汉语常用字字典`
+- `[LZH-ZH Hanzi] 廣韻`
+
+#### 廣韻 Guangyun
+
+**[Project Page](https://github.com/omnilingual/guangyun-for-yomitan)**
+
+A Middle Chinese phonology dictionary based on the 廣韻 (Guangyun), converted for Yomitan by Omnisch. Provides Middle Chinese readings for Han characters.
+
+<details>
+
+<summary>Image</summary>
+
+![Sample](https://raw.githubusercontent.com/omnilingual/guangyun-for-yomitan/main/images/result_sample.png)
+
+</details>
 
 #### Wiktionary Hanzi
 
