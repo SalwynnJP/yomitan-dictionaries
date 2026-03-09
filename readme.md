@@ -49,6 +49,7 @@ My related dictionary resources:
   - [Cantonese Terms](#cantonese-terms)
   - [Cantonese Term Frequency](#cantonese-term-frequency)
 - [Japanese-German](#japanese-german)
+- [Japanese-Portuguese](#japanese-portuguese)
 - [Other](#other)
   - [Indonesian-English](#indonesian-english)
   - [Japanese-Mongolian/日・モ辞典](#japanese-mongolian日モ辞典)
@@ -1839,6 +1840,20 @@ Converted by Julian from the [和独大辞典](https://www.wadokudaijiten.de/).
 > ^^ - might get updated in the future (converting the "tags" to actual tags etc.) . It ups the
 > coverage that you'd get from only using Jmdict German and can be a great tool to use alongside
 > other dicts - may it be as a source for example sentences etc.
+
+# Japanese-Portuguese
+
+#### 現代日葡辞典
+
+**[Download](https://github.com/user-attachments/files/17180970/default.zip)**
+
+A Japanese-Portuguese dictionary originally uploaded by reppler on the TMW Discord.
+
+#### プログレッシブ ポルトガル語辞典
+
+**[Download](https://github.com/user-attachments/files/17180971/default.zip)**
+
+A Japanese-Portuguese dictionary originally uploaded by reppler on the TMW Discord.
 
 # Other
 
