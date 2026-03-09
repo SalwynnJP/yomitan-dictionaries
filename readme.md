@@ -2083,6 +2083,10 @@ A collection of Migaku dictionaries converted to Yomitan format by emanuelps2708
 
 ## Other Languages
 
+**[leipzig-to-yomitan](https://github.com/StefanVukovic99/leipzig-to-yomitan)**
+
+Frequency dictionaries for a wide range of languages generated from the [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/) by StefanVukovic99. Pre-built downloads are available on the [downloads page](https://github.com/StefanVukovic99/leipzig-to-yomitan/blob/master/downloads.md). The recommended file format is rank-based and also displays occurrence counts.
+
 **[kaikki-to-yomitan](https://github.com/themoeway/kaikki-to-yomitan)**
 
 Custom dictionaries for the following languages (and some others) made from Wiktionary:
