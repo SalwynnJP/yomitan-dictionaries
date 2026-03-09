@@ -60,6 +60,7 @@ My related dictionary resources:
   - [English-English](#english-english)
     - [English-Japanese](#english-japanese)
   - [Arabic](#arabic)
+  - [Converted Migaku Dictionaries](#converted-migaku-dictionaries)
   - [Other Languages](#other-languages)
 
 # Dictionary Collection
@@ -2047,6 +2048,38 @@ A Japanese-to-Arabic Yomitan dictionary contributed by kaihouguide.
 
 A collection of various language-to-Arabic Yomitan dictionaries self-ripped and compiled by
 kaihouguide.
+
+## Converted Migaku Dictionaries
+
+**[Download](https://drive.proton.me/urls/15W1X5MVRW#4IxSXZfT8fmN)**
+
+A collection of Migaku dictionaries converted to Yomitan format by emanuelps2708. Dictionaries may not be perfectly formatted.
+
+**Spanish**
+
+- `Oxford_Sp_En` — Oxford Spanish-English (bilingual)
+- `Spanish_-_English` — Spanish-English (bilingual)
+- `RealAcademiaEspanola` — Real Academia Española (monolingual)
+- `Spanish` — Spanish monolingual
+
+**Portuguese**
+
+- `PriberamPortugueseEnglish` — Priberam Portuguese-English (bilingual)
+- `DicionarioPriberamDaLingua` — Dicionário Priberam da Língua Portuguesa (monolingual)
+
+**German**
+
+- `PONS Wörterbuch Englisch Premium (Deutsch-Englisch)` — PONS German-English
+- `PONS Universalwörterbuch (De-Es)` — PONS German-Spanish
+- `DUDEN ‒ Das große Wörterbuch der deutschen Sprache` — DUDEN German monolingual
+
+**English**
+
+- `Sanseido The WISDOM English-Japanese Dictionary` — Sanseido Wisdom English-Japanese
+
+**Romanian**
+
+- `ron-ron_Dexonline` — Dexonline Romanian monolingual
 
 ## Other Languages
 
