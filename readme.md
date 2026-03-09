@@ -58,6 +58,7 @@ My related dictionary resources:
   - [Thai](#thai)
   - [English-English](#english-english)
     - [English-Japanese](#english-japanese)
+  - [Arabic](#arabic)
   - [Other Languages](#other-languages)
 
 # Dictionary Collection
@@ -665,9 +666,7 @@ Scraped by Malte from the online [goo.ne dialect dictionary](https://dictionary.
 
 Scraped from http://www.breaking-news-words.com/ by Malte.
 
-> 「新語時事用語辞典」は、ニュースで今最も話題になっている最新のキーワードを時流に即して紹介する、速
-> 報・辞書サイトです。新聞で、テレビで、ネットで話題になっているキーワードや流行語をいち早く紹介しま
-> す。
+> 「新語時事用語辞典」は、ニュースで今最も話題になっている最新のキーワードを時流に即して紹介する、速報・辞書サイトです。新聞で、テレビで、ネットで話題になっているキーワードや流行語をいち早く紹介します。
 
 #### 実用日本語表現辞典
 
@@ -1432,8 +1431,8 @@ occurence-based list and does not display ranks.
 
 **[Download](https://github.com/MarvNC/yomichan-dictionaries/raw/master/dl/%5BKanji%20Frequency%5D%20Wikipedia.zip)**
 
-Rank-based kanji frequency data from a May 2015 dump of Japanese Wikipedia, containing around 2 万
-kanji. Data [gathered by scriptin](https://github.com/scriptin/kanji-frequency).
+Rank-based kanji frequency data from a May 2015 dump of Japanese Wikipedia, containing around
+2 万 kanji. Data [gathered by scriptin](https://github.com/scriptin/kanji-frequency).
 
 #### jpdb Kanji Frequency
 
@@ -2002,6 +2001,30 @@ Converted by Caoimhe. Data from Monokakido.
 ![ライトハウス英和辞典 第7版](https://github.com/user-attachments/assets/8e244573-7dc8-471f-ba68-a7ca5d72f9fc)
 
 </details>
+
+## Arabic
+
+#### Shinjikai Japanese-Arabic Dictionary
+
+**[Download](https://drive.google.com/file/d/1awZMWMMqKtSfXHYDTVrKlcEBUOQoKaS-/view)**
+
+A Japanese-to-Arabic Yomitan dictionary contributed by kaihouguide.
+
+<details>
+
+<summary>Images</summary>
+
+<img width="1008" height="553" alt="Image" src="https://github.com/user-attachments/assets/eb4e01ca-bcf2-4555-9bca-a029e8e6a9f5" />
+<img width="909" height="580" alt="Image" src="https://github.com/user-attachments/assets/acf10408-d3c2-42c8-b49b-41e9b21f2f51" />
+
+</details>
+
+#### Various Language Dictionaries to Arabic
+
+**[Download](https://drive.google.com/drive/u/1/folders/1xe0wTHq9BI08lQdouOBLUrKML1abemB5)**
+
+A collection of various language-to-Arabic Yomitan dictionaries self-ripped and compiled by
+kaihouguide.
 
 ## Other Languages
 
