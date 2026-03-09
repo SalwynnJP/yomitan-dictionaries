@@ -53,6 +53,7 @@ My related dictionary resources:
   - [Indonesian-English](#indonesian-english)
   - [Japanese-Mongolian/日・モ辞典](#japanese-mongolian日モ辞典)
   - [Korean](#korean)
+  - [Russian](#russian)
   - [Vietnamese-English](#vietnamese-english)
   - [Lao](#lao)
   - [Thai](#thai)
@@ -1871,6 +1872,27 @@ Contains:
 > - Jarjumarvin's Conjugation Dictionary can cause lag on mobile and weaker devices, and does not have perfect coverage
 > - SpazzTL's Supplemental Dictionary is meant to be used with the above setup, though as of 8/16/25 it has >500 words
 > - Pelda's dictionary is outdated
+
+## Russian
+
+#### OpenRussian
+
+**[Project Page](https://github.com/ImenaOphelia/openrussian-to-yomitan)**
+
+A Yomitan-compatible Russian dictionary built from [OpenRussian](https://en.openrussian.org/) data
+(CC-BY-SA), converted by ImenaOphelia. Also includes a meta dictionary with A. A. Zaliznyak's
+grammatical classification for each word. Updated regularly via automated releases.
+
+<details>
+
+<summary>Images</summary>
+
+![Image](https://github.com/user-attachments/assets/4b0c37fe-3817-4f48-9af6-41f11ddcbc7e)
+![Image](https://github.com/user-attachments/assets/2609a4e0-5dac-47d6-abc1-f5791809417b)
+![Image](https://github.com/user-attachments/assets/f98accc2-31d7-4292-9551-37e8a3c1f284)
+![Image](https://github.com/user-attachments/assets/a0ff00c1-f95e-46d6-94ed-f383d14d83e6)
+
+</details>
 
 ## Vietnamese-English
 
