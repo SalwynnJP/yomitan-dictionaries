@@ -2076,7 +2076,7 @@ Converted by Caoimhe. Data from Monokakido.
 
 ## Arabic
 
-#### Shinjikai Japanese-Arabic Dictionary
+#### 深辞海 日本語アラビア語大辞典
 
 **[Download](https://drive.google.com/file/d/1awZMWMMqKtSfXHYDTVrKlcEBUOQoKaS-/view)**
 
