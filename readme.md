@@ -1678,6 +1678,25 @@ In the [dictionary collection](#dictionary-collection):
 - `[LZH-ZH Hanzi] 古汉语常用字字典`
 - `[LZH-ZH Hanzi] 廣韻`
 
+#### MCPDict 漢字古今中外讀音查詢
+
+**[Project Page](https://github.com/omnilingual/mcpdict-for-yomitan)**
+
+A Han character pronunciation dictionary for Yomitan by Omnisch, sourced from [MaigoAkisame/MCPDict](https://github.com/MaigoAkisame/MCPDict). Covers pronunciations across:
+
+- Middle Chinese
+- Mandarin, Wu, Min, Yue (Cantonese)
+- Vietnamese, Korean
+- Japanese Go-on, Kan-on, Tō-on, Kan'yō-on
+
+<details>
+
+<summary>Image</summary>
+
+![Sample](https://raw.githubusercontent.com/omnilingual/mcpdict-for-yomitan/main/images/result_of_ngiox.png)
+
+</details>
+
 #### 廣韻 Guangyun
 
 **[Project Page](https://github.com/omnilingual/guangyun-for-yomitan)**
