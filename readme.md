@@ -385,7 +385,7 @@ Dictionaries converted by Salwynn.
 **語彙力・熟語の百科事典**
 
 Jukugo and expressions with images from https://proverb-encyclopedia.com/dictionary/,
-https://proverb-encyclopedia.com/two/, https://proverb-encyclopedia.com/dictionary/,
+https://proverb-encyclopedia.com/two/, https://proverb-encyclopedia.com/two/douonigigo-itiran/,
 https://sanji-jukugo.com/ and https://yoji-jukugo.com/
 
 <details>
@@ -2071,6 +2071,22 @@ Converted by Caoimhe. Data from Monokakido.
 <summary>Images</summary>
 
 ![ライトハウス英和辞典 第7版](https://github.com/user-attachments/assets/8e244573-7dc8-471f-ba68-a7ca5d72f9fc)
+
+</details>
+
+## French-Japanese
+
+#### ポケットプログレッシブ仏和・和仏辞典 第3版
+
+**[Download](https://drive.google.com/drive/folders/1qG6L8HMlHhLjg09VrjkJ34f9YBchwHdn)**
+
+Converted by Salwynn. Data from [kotobank.jp](https://kotobank.jp/dictionary/ppfj03/). 63001 entries.
+
+<details>
+  
+<summary>Images</summary>
+
+![image](https://github.com/user-attachments/assets/ef3ec39a-ab51-4221-89a1-890d1eb4026d)
 
 </details>
 
