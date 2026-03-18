@@ -50,6 +50,7 @@ My related dictionary resources:
   - [Cantonese Term Frequency](#cantonese-term-frequency)
 - [Japanese-German](#japanese-german)
 - [Japanese-Portuguese](#japanese-portuguese)
+- [French-Japanese](#french-japanese)
 - [Other](#other)
   - [Indonesian-English](#indonesian-english)
   - [Japanese-Mongolian/日・モ辞典](#japanese-mongolian日モ辞典)
@@ -2076,7 +2077,7 @@ Converted by Caoimhe. Data from Monokakido.
 
 ## French-Japanese
 
-#### ポケットプログレッシブ仏和・和仏辞典 第3版
+### ポケットプログレッシブ仏和・和仏辞典 第3版
 
 **[Download](https://drive.google.com/drive/folders/1qG6L8HMlHhLjg09VrjkJ34f9YBchwHdn)**
 
