@@ -243,6 +243,8 @@ Found in the [dictionary collection](#dictionary-collection).
 - 広辞苑 第七版
   - Converted by [Thermosphere and shoui](https://github.com/Thermospore/koj72yomi).
 - 三省堂国語辞典　第七版
+- 現代新国語辞典　第七版
+  - Converted by [Zenon](https://drive.google.com/drive/folders/1pkf3Au9zfOMiZITNVtz-nnRfNW5XzC5q). Contains 82620 term entries (75615 words, 7005 phrases), 2136 kanji entries.
 - 実用日本語表現辞典
 - 新明解国語辞典 第七版
 - 明鏡国語辞典 第三版
